@@ -1,0 +1,615 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#">
+
+	<head>
+		
+		<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
+		<meta charset="utf-8" />
+		
+		<title>Petites Annonces Répliques AEG   - Airsoft Occasion</title>
+		
+		<meta name="Description" content="" />
+		<meta name="Keywords" lang="fr" content="" />
+		<meta name="Robots" content="all" />
+		<meta name="format-detection" content="telephone=no" />
+		
+		<link href="template/css/jquery-ui.min.css" type="text/css" rel="stylesheet" />
+		<link href="template/css/design.css" type="text/css" rel="stylesheet" />
+		<link href="template/map/map.css" type="text/css" rel="stylesheet" />
+		
+		<!-- FAVICON -->
+		
+		<link rel="apple-touch-icon" sizes="57x57" href="template/images/favicon/apple-icon-57x57.png">
+		<link rel="apple-touch-icon" sizes="60x60" href="template/images/favicon/apple-icon-60x60.png">
+		<link rel="apple-touch-icon" sizes="72x72" href="template/images/favicon/apple-icon-72x72.png">
+		<link rel="apple-touch-icon" sizes="76x76" href="template/images/favicon/apple-icon-76x76.png">
+		<link rel="apple-touch-icon" sizes="114x114" href="template/images/favicon/apple-icon-114x114.png">
+		<link rel="apple-touch-icon" sizes="120x120" href="template/images/favicon/apple-icon-120x120.png">
+		<link rel="apple-touch-icon" sizes="144x144" href="template/images/favicon/apple-icon-144x144.png">
+		<link rel="apple-touch-icon" sizes="152x152" href="template/images/favicon/apple-icon-152x152.png">
+		<link rel="apple-touch-icon" sizes="180x180" href="template/images/favicon/apple-icon-180x180.png">
+		<link rel="icon" type="image/png" sizes="192x192" href="template/images/favicon/android-icon-192x192.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="template/images/favicon/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="96x96" href="template/images/favicon/favicon-96x96.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="template/images/favicon/favicon-16x16.png">
+		<meta name="msapplication-TileColor" content="#ffffff">
+		<meta name="msapplication-TileImage" content="template/images/favicon/ms-icon-144x144.png">
+		<meta name="theme-color" content="#ffffff"> 
+		
+				<meta property="og:title" content="Airsoft Occasion : Petites Annonces Répliques AEG   - Airsoft Occasion" />
+		<meta property="og:type" content="website" />
+		<meta property="og:url" content="https://www.airsoft-occasion.fr/ads_search.php?sort=1&status=0&keywords=ak&postcode=&reg=0&cat=95&search_start_date=&search_end_date=&offer=1"/>
+		<meta property="og:site_name" content="Airsoft Occasion"/>
+		<meta property="og:description" content="">
+			
+	</head>
+
+<body>
+	
+<a id="background" style='background: url("upload/advertisement/a964nvti2e.jpg") no-repeat center top fixed; background-size: cover;' href="https://www.lairsofteur.fr/" onclick="window.open(this.href); return false;"></a><a href="https://www.lairsofteur.fr/"><p id="p_background"></p></a>
+<header id="top_site">
+
+	<div id="top_site_logo">
+		<p><a href="https://www.airsoft-occasion.fr"><img src="template/images/logo.png" alt="Airsoft Occasion" /></a></p>
+	</div>
+	
+	<div id="left_top_header">
+		<p id="p_top_header"><span class="first_color">3210</span> <span class="first_color">annonces</span> sur tout le site !</p>
+	</div>
+
+	<nav id="right_top_header">
+		<div class="bloc_networks">
+						<a onclick="window.open(this.href); return false;" rel="nofollow" href="https://www.airsoft-occasion.fr/rss/Airsoft-Occasion.xml"><img src="template/images/small_rss.png" width="20" height="20"  alt="" /></a>&nbsp;
+						<a onclick="window.open(this.href); return false;" rel="nofollow" href="http://www.facebook.com/share.php?u=http://www.airsoft-occasion.fr/ads_search.php?sort=1&status=0&keywords=ak&postcode=&reg=0&cat=95&search_start_date=&search_end_date=&offer=1"><img src="template/images/small_facebook.png" width="20" height="20" alt="" /></a>&nbsp;
+			<a onclick="window.open(this.href); return false;" rel="nofollow" href="http://twitter.com/share?url=http://www.airsoft-occasion.fr/ads_search.php?sort=1&status=0&keywords=ak&postcode=&reg=0&cat=95&search_start_date=&search_end_date=&offer=1"><img src="template/images/small_twitter.png" width="20" height="20"  alt="" /></a>&nbsp;
+			<div class="g-plusone" data-size="medium" data-count="true"></div>
+		</div>
+		
+		<div id="flags">
+					</div>
+	
+		<ul>
+			<li class="li_top_header"><img src="template/images/arrow_header.png" width="12" height="11" alt="" /><a href="acc_connexion.php?type=1">Espace membre</a></li><li class="li_top_header">&nbsp;|&nbsp;</li><li class="li_top_header"><img src="template/images/arrow_header.png" width="12" height="11" alt="" /><a href="acc_connexion.php?type=2">Espace PRO</a></li>		</ul>
+	</nav>
+
+</header>
+
+<div id="bar_links_backgroud" style="max-width: 1000px">
+
+	<div id="bar_links_parents">
+	<div id="bar_links">
+	
+		<nav>
+			<ul class="ul_bar">
+				<li class="li_bar" id="m1"><a href="https://www.airsoft-occasion.fr">Accueil</a></li>
+				<li class="li_bar" id="m2"><img id="li_bar_button" src="template/images/bt_mobile.png" onclick="menushow();" alt="" /><a href="ads_search.php?offer=1">Les offres</a></li>
+				<li class="li_bar" id="m3"><a href="ads_search.php?wanted=1">Les recherches</a></li>
+				<li class="li_bar" id="m4"><a href="ads_search.php?swap=1">Les échanges</a></li>				<li class="li_bar" id="m5"><a href="ads_search.php?donation=1">Les dons</a></li>				<li class="li_bar" id="m6"><a href="shops_search.php">Les vitrines des PRO</a></li>			</ul>
+			
+			<ul class="ul_bar_adm">
+							</ul>
+			
+		</nav>
+		
+	</div>
+	
+	<div id="bar_links_deposit">
+		<a href="acc_info.php">Déposer une annonce</a>
+	</div>
+	</div>
+	
+</div>
+
+<div id="background_site_1">
+<div id="background_site_2">
+	
+	
+
+<form method="get" id="menu_search" action="ads_search.php">
+	
+	<p id="search_geoloc_err" class="error" style="display: none;">Vous n'avez pas autorisé l'accès à votre position. Vous ne pouvez donc pas accéder au système de géolocalisation des annonces.</p>
+	
+	<input type="hidden" name="sort" value="1" />
+	<input type="hidden" name="status" value="0" />
+	
+	<input type="text" class="input_search" name="keywords" placeholder="Tapez votre recherche" value="ak" />
+		
+				<input type="text" class="input_search" name="postcode" placeholder="Code postal (ex:35000)" value="" />
+			  
+		<select id="county" name="reg" class="select_search" onchange="GetCounties()"><option value="0">Toutes régions</option><option value="geoloc_search" id="search_geoloc">Autour de moi</option><option value="1">Alsace</option><option value="2">Aquitaine</option><option value="3">Auvergne</option><option value="4">Basse-Normandie</option><option value="5">Bourgogne</option><option value="6">Bretagne</option><option value="7">Centre</option><option value="8">Champagne-Ardenne</option><option value="9">Corse</option><option value="10">Franche-Comté</option><option value="11">Haute-Normandie</option><option value="12">Ile-de-France</option><option value="13">Languedoc-Roussillon</option><option value="14">Limousin</option><option value="15">Lorraine</option><option value="16">Midi-Pyrénées</option><option value="17">Nord-Pas-de-Calais</option><option value="18">Pays de la Loire</option><option value="19">Picardie</option><option value="20">Poitou-Charentes</option><option value="21">Provence-Alpes-Côte-d&#039;Azur</option><option value="22">Rhône-Alpes</option><option value="27">Guadeloupe</option><option value="28">Martinique</option><option value="29">Guyane</option><option value="30">Réunion</option></select><div id="get_counties"></div><select id="opt" name="cat" class="select_search" onchange="GetOptions(); GetCalendar();"><option value="0">Toutes catégories</option><option value="EMPLOIS dans L&#039;airsoft" class="background_select_cat uppercase">-- EMPLOIS DANS L&#039;AIRSOFT --</option><option value="189">EMPLOIS dans L&#039;airsoft</option><option value="Terrains &amp; Partie" class="background_select_cat uppercase">-- TERRAINS &AMP; PARTIE --</option><option value="181">Recherche terrain</option><option value="182">Location de terrain</option><option value="183">partie organisée par asso</option><option value="Recherche ou recrutement pour joueur et association" class="background_select_cat uppercase">-- RECHERCHE OU RECRUTEMENT POUR JOUEUR ET ASSOCIATION --</option><option value="177">Recherche association</option><option value="178">Recrute joueurs</option><option value="Echanges &amp; Recherches" class="background_select_cat uppercase">-- ECHANGES &AMP; RECHERCHES --</option><option value="170">Recherches</option><option value="169">Echanges</option><option value="Répliques de poing" class="background_select_cat uppercase">-- RéPLIQUES DE POING --</option><option value="117">de Poing au CO²</option><option value="71">de Poing à Gaz</option><option value="72">de Poing AEP</option><option value="153">de Poing spring</option><option value="Répliques longues" class="background_select_cat uppercase">-- RéPLIQUES LONGUES --</option><option value="95" selected>Répliques AEG</option><option value="96">AEG Blowback EBB</option><option value="97">Gaz Blowback GBB</option><option value="179">Répliques spring</option><option value="HPA" class="background_select_cat uppercase">-- HPA --</option><option value="191">HPA</option><option value="Snipes" class="background_select_cat uppercase">-- SNIPES --</option><option value="139">Snipes spring</option><option value="175">Snipes gaz</option><option value="192">Snipes CO²</option><option value="Fusils à pompes" class="background_select_cat uppercase">-- FUSILS à POMPES --</option><option value="140">Fusils à Pompes</option><option value="Historique" class="background_select_cat uppercase">-- HISTORIQUE --</option><option value="194">Répliques de Poing</option><option value="195">Répliques Longues</option><option value="Chargeurs pour répliques AEG GBB AEP" class="background_select_cat uppercase">-- CHARGEURS POUR RéPLIQUES AEG GBB AEP --</option><option value="127">Chargeurs CO²</option><option value="128">Chargeurs GAZ</option><option value="152">Chargeurs AEG</option><option value="171">Chargeurs AEP</option><option value="Grenades &amp; lanceurs &amp; mines" class="background_select_cat uppercase">-- GRENADES &AMP; LANCEURS &AMP; MINES --</option><option value="142">Grenades</option><option value="143">Lanceurs de Grenades</option><option value="144">Mines</option><option value="Lunettes et red dot" class="background_select_cat uppercase">-- LUNETTES ET RED DOT --</option><option value="132">Lampes</option><option value="133">Lasers</option><option value="134">Lunettes</option><option value="135">Red Dot</option><option value="Pièces externes  " class="background_select_cat uppercase">-- PIèCES EXTERNES   --</option><option value="122">Anneaux</option><option value="123">Attache Sangle</option><option value="124">Bi-Pied</option><option value="125">Cache Flamme &amp;amp; Ralonge de Canon</option><option value="129">Poignées &amp;amp; Crosses</option><option value="126">Corps de Réplique &amp;amp; Garde Main</option><option value="174">Rails</option><option value="154">Silencieux &amp;amp; Amplificateurs de son</option><option value="Pièces intrenes" class="background_select_cat uppercase">-- PIèCES INTRENES --</option><option value="156">Bushings</option><option value="155">Canons de précision </option><option value="157">Cylindres</option><option value="149">Divers</option><option value="165">Gearbox</option><option value="158">Joints hop-up</option><option value="164">Nozzels</option><option value="163">Pignons gearbox</option><option value="160">Pistons</option><option value="159">Ressorts</option><option value="161">Têtes de cylindres </option><option value="162">Têtes de pistons </option><option value="Batteries &amp; chargeurs de batteries" class="background_select_cat uppercase">-- BATTERIES &AMP; CHARGEURS DE BATTERIES --</option><option value="150">Batteries &amp; Chargeurs</option><option value="Vêtements &amp; Protections" class="background_select_cat uppercase">-- VêTEMENTS &AMP; PROTECTIONS --</option><option value="145">Vêtements &amp; Protections</option><option value="Répliques pour enfants" class="background_select_cat uppercase">-- RéPLIQUES POUR ENFANTS --</option><option value="141">Répliques Enfants</option><option value="Divers" class="background_select_cat uppercase">-- DIVERS --</option><option value="147">Divers</option><option value="PaintBall" class="background_select_cat uppercase">-- PAINTBALL --</option><option value="167">PaintBall</option><option value="Modèles Réduits" class="background_select_cat uppercase">-- MODèLES RéDUITS --</option><option value="173">Modèles Réduits</option><option value="Magasines airsoft" class="background_select_cat uppercase">-- MAGASINES AIRSOFT --</option><option value="146">Magasines</option><option value="Calibre 4.5mm" class="background_select_cat uppercase">-- CALIBRE 4.5MM --</option><option value="187">Calibre 4.5mm</option><option value="ration militaire" class="background_select_cat uppercase">-- RATION MILITAIRE --</option><option value="197">ration militaire</option></select>			<div id="cal_search_wrap" >
+				<input type="text" autocomplete="off" class="input_search" id="start_date" name="search_start_date" placeholder="Du" value="" />
+				<input type="text" autocomplete="off" class="input_search" id="end_date" name="search_end_date" placeholder="Au" value="" />
+			</div>
+			<div id="get_options"><div id="option"></div></div>			
+			<div class="title_checkbox"><p class="p_search_only">Uniquement dans</p></div>
+			
+			<div id="left_checkbox_search">
+				
+				<div class="form_home_check">
+					<input type="checkbox" id="title" name="title" value="1"  />
+					<label for="title">Titre</label>
+				</div>
+				
+				<div class="form_home_check">
+					<input type="checkbox" id="urgent" name="urgent" value="1"  />
+					<label for="urgent">Urgentes</label>
+				</div>
+				
+				<div class="form_home_check">
+					<input type="checkbox" id="offer" name="offer" value="1" checked />
+					<label for="offer">Offres</label>
+				</div>
+				
+				<div class="form_home_check">
+					<input type="checkbox" id="wanted" name="wanted" value="1"  />
+					<label for="wanted">Recherches</label>
+				</div>
+				
+									<div class="form_home_check">
+						<input type="checkbox" id="donation" name="donation" value="1"  />
+						<label for="donation">Dons</label>
+					</div>
+								
+									<div class="form_home_check">
+						<input type="checkbox" id="swap" name="swap" value="1"  />
+						<label for="swap">Échanges</label>
+					</div>
+								
+				<div class="form_home_check">
+					<input type="checkbox" id="picture" name="picture" value="1"  />
+					<label for="picture">Avec photo</label>
+				</div>
+			
+				<div class="form_home_check">
+					<input type="checkbox" id="video" name="video" value="1"  />
+					<label for="video">Avec vidéo</label>
+				</div>
+			
+			</div>
+			
+			<input class="button_search" type="submit" value="Lancer la recherche" />
+
+</form>
+
+
+<div id="top_site_adv">
+	<p><a href="http://www.airsoft-accessoire.com" onclick="window.open(this.href); return false;"><img src="upload/advertisement/y64p1d9q21.png" alt="" /></a></p></div>
+
+
+<div id="menu_ads_shops_premium">
+
+
+<div class="background_ads_premium">
+
+	<p class="p_no_premium second_color">
+		Ici votre annonce premium		<a href="javascript:;" onclick="window.open('more_premium_ad.php', 'PREMIUM', 'scrollbars = no, width = 560, height = 360')" class="link_more_premium purple">En savoir plus</a>
+	</p>
+	
+</div>
+
+
+<div class="background_ads_premium">
+
+	<p class="p_no_premium second_color">
+		Ici votre annonce premium		<a href="javascript:;" onclick="window.open('more_premium_ad.php', 'PREMIUM', 'scrollbars = no, width = 560, height = 360')" class="link_more_premium purple">En savoir plus</a>
+	</p>
+	
+</div>
+
+
+<div class="background_ads_premium">
+
+	<p class="p_no_premium second_color">
+		Ici votre annonce premium		<a href="javascript:;" onclick="window.open('more_premium_ad.php', 'PREMIUM', 'scrollbars = no, width = 560, height = 360')" class="link_more_premium purple">En savoir plus</a>
+	</p>
+	
+</div>
+
+
+<div class="background_ads_premium">
+
+	<p class="p_no_premium second_color">
+		Ici votre annonce premium		<a href="javascript:;" onclick="window.open('more_premium_ad.php', 'PREMIUM', 'scrollbars = no, width = 560, height = 360')" class="link_more_premium purple">En savoir plus</a>
+	</p>
+	
+</div>
+
+
+<div class="background_ads_premium">
+
+	<p class="p_no_premium second_color">
+		Ici votre annonce premium		<a href="javascript:;" onclick="window.open('more_premium_ad.php', 'PREMIUM', 'scrollbars = no, width = 560, height = 360')" class="link_more_premium purple">En savoir plus</a>
+	</p>
+	
+</div>
+
+
+</div>
+	
+
+<div class="bar_info">
+
+		<div class="bloc_networks">
+		<p class="p_bar_info_left">
+			<a href="ads_search.php?l=1&amp;reg=0&amp;county=0&amp;cat=0&amp;sort=1&amp;status=0">Toutes régions</a>
+			<a href="ads_search.php?l=1&amp;reg=0&amp;county=0&amp;cat=0&amp;sort=1&amp;status=0">Tous départements</a>
+			<a href="ads_search.php?l=1&amp;reg=0&amp;county=0&amp;cat=95&amp;sort=1&amp;status=0">Répliques AEG</a>
+		</p>
+	</div>
+		
+		<div id="bloc_info_right">
+		<p><a class="bt_alert" href="alert_form.php">Alerte email</a></p>
+		<p class="p_barre_info_right">
+			<span class="p_barre_info_right_img">
+				<a href="selection.php">Annonces sélectionnées (<span id="nb_ad_selection">0</span>)</a>
+			</span>
+		</p>
+	</div>
+	
+</div>
+
+<div id="body_info_ads">
+
+		<a class="link_info_ads_sel" href="ads_search.php?l=1&amp;sort=1">Toutes les annonces :</a>
+	
+	<span class="txt_info_nb_ads">&nbsp; 1 à 30 sur  47 &nbsp;</span>
+		<a class="link_info_ads" href="ads_search.php?l=1&amp;status=1&amp;sort=1">Particulier :</a>
+		
+	<span class="txt_info_nb_ads">&nbsp; 47 &nbsp;</span>
+		<a class="link_info_ads" href="ads_search.php?l=1&amp;status=2&amp;sort=1">Professionnel :</a>
+		
+	<span class="txt_info_nb_ads">&nbsp; 0 &nbsp;</span>	
+		
+    
+</div>
+
+<div class="bloc_center"><div class="middle_bloc_center"><div id="body_listing">
+<div class="bloc_pagination ">
+
+     <a href="ads_search.php?l=1&amp;page=1" class="link_pagination_sel">1</a><a href="ads_search.php?l=1&amp;page=2" class="link_pagination">2</a><a href="ads_search.php?l=1&amp;page=2" class="link_pagination">page suivante ></a><a href="ads_search.php?l=1&amp;page=2" class="link_pagination">dernière page</a><a href="ads_search.php?l=1&amp;page=1&amp;sort=2" class="link_display">Trier par prix</a>
+</div>
+	
+
+	
+		
+				
+		<div class="background_ads_listing_1" >
+		
+		<a href="javascript:void(0)" data-heart="1" data-id="287263" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-287263-Bretagne-Ille-et-Vilaine-Repliques-AEG-E-L-Gen-2" class="bloc_link_listing_1" title="AK 710 E&amp;L Gen 2
+
+Pneumatique SHS
+Canon Lambda One
+Joint Maple Leaf Max Range 60 degrés 
+Appui flat Modify
+Câblage Dean 
+
+Excellent état.
+Pour plus d’infos n’hésitez pas à me contacter pa..."><p class="p_title_listing">E&amp;L Gen 2</p><div class="bloc_address_listing"><p class="p_address_listing">Ille-et-Vilaine<br />35730 Pleurtuit</p><p class="p_price_listing"><strong>180,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/11/09/12/57/9520tq789v.jpeg" width="176" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Hier <br />à 12h58<br /><br /><strong>3</strong> Photos</p></div></a></div>		
+				
+		<div class="background_ads_listing_1" >
+		
+		<a href="javascript:void(0)" data-heart="1" data-id="287221" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-287221-Poitou-Charentes-Charente-Maritime-Repliques-AEG-SVD-REAL-SWORD" class="bloc_link_listing_1" title="Bonjour a tous,
+
+Je met en vente mon SVD Real Sword fraichement upgradé avec pieces internes neuves, 5 chargeurs Real Sword (2 brillant,3 mat), une lunette BELOMO 4x24 et sa sangle AK RS ..."><p class="p_title_listing">SVD REAL SWORD</p><div class="bloc_address_listing"><p class="p_address_listing">Charente-Maritime<br />17000 La Rochelle</p><p class="p_price_listing"><strong>700,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/11/08/21/23/ym84s98z94.jpg" width="176" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 08/11<br />à 21h24<br /><br /><strong>2</strong> Photos</p></div></a></div>		
+				
+		<div class="background_ads_listing_1" >
+		
+		<a href="javascript:void(0)" data-heart="1" data-id="287189" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-287189-Poitou-Charentes-Deux-Sevres-Repliques-AEG-Ak-47-aeg-Tactical" class="bloc_link_listing_1" title="Je souhaite me séparer de ma réplique AEG AK47 Tactical de chez Cybergun j'ai l'ai acheter avec un Red Dot ainsi qu'une poignée je compte la vendre pour 90 euros environ ( prix neuf 140 elle n'a pr..."><p class="p_title_listing">Ak-47 aeg Tactical</p><div class="bloc_address_listing"><p class="p_address_listing">Deux-Sèvres<br />79230 Aiffres</p><p class="p_price_listing"><strong>75,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/11/08/16/45/96e7q73sev.jpg" width="176" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 08/11<br />à 16h45<br /><br /><strong>2</strong> Photos</p></div></a></div>		
+				
+		<div class="background_ads_listing_1" >
+		
+		<a href="javascript:void(0)" data-heart="1" data-id="287145" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-287145-Provence-Alpes-Cote-d-Azur-Vaucluse-Repliques-AEG-AK-47-SU" class="bloc_link_listing_1" title="Bonjour,
+Je vends mon AKSU de la marque APS.
+Il est comme neuf et n'a que 3 parties a sont actif.
+Entretenu après chaque partie.
+Cross rétractation.
+Encore en vente sur AE si vous voulez plus de ..."><p class="p_title_listing">AK 47 SU</p><div class="bloc_address_listing"><p class="p_address_listing">Vaucluse<br />84200 Carpentras</p><p class="p_price_listing"><strong>150,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/11/08/13/01/95b64dso51.jpg" width="176" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 08/11<br />à 13h04<br /><br /><strong>3</strong> Photos</p></div></a></div>		
+				
+		<div class="background_ads_listing_1" >
+		
+		<a href="javascript:void(0)" data-heart="1" data-id="286800" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-286800-Centre-Loir-et-Cher-Repliques-AEG-AK-47" class="bloc_link_listing_1" title="Bonjour je vend cette réplique avec 
+1 chargeur 600 billes
+1 batterie 8.4 v et chargeur de batterie 
+Crosse et poignée rétractable et démontable
+Mode auto et full auto 
+Puissance 2 joule 
+Q..."><p class="p_title_listing">AK-47</p><div class="bloc_address_listing"><p class="p_address_listing">Loir-et-Cher<br />41000 Blois</p><p class="p_price_listing"><strong>150,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/11/06/04/28/s8q064do29.jpg" width="176" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 06/11<br />à 4h31<br /><br /><strong>3</strong> Photos</p></div></a></div>		
+				
+		<div class="background_ads_listing_1" >
+		
+		<a href="javascript:void(0)" data-heart="1" data-id="286573" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-286573-Nord-Pas-de-Calais-Nord-Repliques-AEG-AK-47" class="bloc_link_listing_1" title="Bonjour,
+
+Je mets en vente une réplique AEG d'un AK 47.
+Il est vendu avec son chargeur Hi-cap, un sac de transport SWISS ARMS et une sangle.
+
+La réplique a été utilisée une fois, puis est restée ..."><p class="p_title_listing">AK 47</p><div class="bloc_address_listing"><p class="p_address_listing">Nord<br />59121 Prouvy</p><p class="p_price_listing"><strong>80,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/11/04/13/15/bh4sdmis27.jpg" width="176" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 04/11<br />à 13h15<br /><br /><strong>2</strong> Photos</p></div></a></div>		
+				
+		<div class="background_ads_listing_1" >
+		
+		<a href="javascript:void(0)" data-heart="1" data-id="286549" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-286549-Alsace-Bas-Rhin-Repliques-AEG-AK-MP5-ET-PA-NON-FONCTIONNEL" class="bloc_link_listing_1" title="Je vend ce lot de réplique qui ne fonctionnent plus.
+Sûrement les moteur pour certaines, pour les Pistolet les chargeurs bloc et un à le bout cassé.
+2 AK, 1 MP5, 2 Pistolets
+2 batteries comprenant ..."><p class="p_title_listing">AK, MP5 ET PA NON FONCTIONNEL</p><div class="bloc_address_listing"><p class="p_address_listing">Bas-Rhin<br />67600 Sélestat</p><p class="p_price_listing"><strong>100,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/11/03/22/16/d26mqv0065.jpg" width="176" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 03/11<br />à 22h17<br /><br /><strong>3</strong> Photos</p></div></a></div>		
+				
+		<div class="background_ads_listing_1" >
+		
+		<a href="javascript:void(0)" data-heart="1" data-id="286470" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-286470-Alsace-Bas-Rhin-Repliques-AEG-AK-74-CYMA" class="bloc_link_listing_1" title="Bonjour,
+je vends une réplique d'AK CYMA en parfait état !
+Réplique ayant jouée 5-6 parties. Vendue avec les accessoires de la photo."><p class="p_title_listing">AK 74 CYMA</p><div class="bloc_address_listing"><p class="p_address_listing">Bas-Rhin<br />67250 Haguenau</p><p class="p_price_listing"><strong>100,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/11/03/16/02/95bhesmto9.jpg" width="176" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 03/11<br />à 16h03<br /><br /><strong>1</strong> Photo</p></div></a></div>		
+				
+		<div class="background_ads_listing_1" >
+		
+		<a href="javascript:void(0)" data-heart="1" data-id="286446" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-286446-Bourgogne-Cote-d-039-Or-Repliques-AEG-AK-Tactical-accessoires" class="bloc_link_listing_1" title="Bonjour à tous, 
+À vendre AK Tactical AEG cyma avec comme accessoires et upgrades : crosse Fab défense, eotech et son rail, poignée 45°, repose pouce, canon précision 6.03 et joint hop UP. La répli..."><p class="p_title_listing">AK Tactical + accessoires</p><div class="bloc_address_listing"><p class="p_address_listing">Côte-d&amp;#039;Or<br />21560 Dijon</p><p class="p_price_listing"><strong>100,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/11/03/13/05/9a5643vd95.jpg" width="176" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 03/11<br />à 13h06<br /><br /><strong>3</strong> Photos</p></div></a></div>		
+				
+		<div class="background_ads_listing_1" >
+		
+		<a href="javascript:void(0)" data-heart="1" data-id="286206" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-286206-Picardie-Aisne-Repliques-AEG-AK-74-Arcturus" class="bloc_link_listing_1" title="Bonjour,
+
+Je vends mon AK 74 Arcturus,
+
+Elle est sur la base d'une AK06 avec l'avant de l'Ak 74 Custom, donc c'est un modèle spécial.
+
+Elle possède un changement rapide du ressort et un bloc Ho..."><p class="p_title_listing">AK 74 Arcturus</p><div class="bloc_address_listing"><p class="p_address_listing">Aisne<br />02320 PInon</p><p class="p_price_listing"><strong>250,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/11/01/15/51/ys4f3d79o2.jpg" width="176" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 01/11<br />à 15h53<br /><br /><strong>3</strong> Photos</p></div></a></div>		
+				
+		<div class="background_ads_listing_1" >
+		
+		<a href="javascript:void(0)" data-heart="1" data-id="286140" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-286140-Ile-de-France-Seine-et-Marne-Repliques-AEG-AK-74-Un-GEN-2-E-L" class="bloc_link_listing_1" title="Bonjour, je me sépare de mon ak 74 UN GEN 2 E&amp;L, car pas mon style de jeu.
+
+La réplique a très très peu servie et est en exellente état. Totalement différent de la nouvelle gamme essentiel de E&..."><p class="p_title_listing">AK 74 Un GEN 2 E&amp;L</p><div class="bloc_address_listing"><p class="p_address_listing">Seine-et-Marne<br />77176 savigny-le-temple</p><p class="p_price_listing"><strong>450,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/11/01/10/40/92667d5v1e.jpg" width="176" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 01/11<br />à 10h42<br /><br /><strong>3</strong> Photos</p></div></a></div>		
+				
+		<div class="background_ads_listing_1" >
+		
+		<a href="javascript:void(0)" data-heart="1" data-id="286057" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-286057-Aquitaine-Dordogne-Repliques-AEG-Edge-2-0" class="bloc_link_listing_1" title="Bonjour, je vend ma Edge 2.0 étant donner qu'après une vingtaines de parties je préfère vraiment les plateformes type ak. Je cherche donc a faire un heureux en la vendent avec 2 chargeur long et 2 cha..."><p class="p_title_listing">Edge 2.0</p><div class="bloc_address_listing"><p class="p_address_listing">Dordogne<br />24150 Bergerac</p><p class="p_price_listing"><strong>310,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/10/31/14/27/ht6n3dq3z1.jpg" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 31/10<br />à 14h28<br /><br /><strong>3</strong> Photos</p></div></a></div>		
+				
+		<div class="background_ads_listing_1" >
+		
+		<a href="javascript:void(0)" data-heart="1" data-id="285849" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-285849-Nord-Pas-de-Calais-Pas-de-Calais-Repliques-AEG-Air-soft-Ak-47-TACTICAL" class="bloc_link_listing_1" title="Je vend mon air soft qui a étais utilisé quelque fois , n’a jamais connue le terrain"><p class="p_title_listing">Air soft Ak 47 TACTICAL</p><div class="bloc_address_listing"><p class="p_address_listing">Pas-de-Calais<br />62590 Oignies</p><p class="p_price_listing"><strong>100,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/10/29/17/34/5689sq2054.jpeg" width="176" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 29/10<br />à 17h35<br /><br /><strong>2</strong> Photos</p></div></a></div>		
+				
+		<div class="background_ads_listing_1" >
+		
+		<a href="javascript:void(0)" data-heart="1" data-id="285739" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-285739-Lorraine-Moselle-Repliques-AEG-HK416-FULL-UPGRADE" class="bloc_link_listing_1" title="Bonjour, je m'en sépare car je ne m'en sers plus
+Négociable dans la limite du raisonnable
+
+Titan Gate 
+Gâchette titan maxx
+Interne full SHS
+DSG SHS
+PNEUMATIQUE SHS
+13:1 SHS
+HOP UP PR..."><p class="p_title_listing">HK416 FULL UPGRADE</p><div class="bloc_address_listing"><p class="p_address_listing">Moselle<br />57550 FALCK</p><p class="p_price_listing"><strong>350,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/10/28/15/39/y36sq3d284.jpg" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 28/10<br />à 15h40<br /><br /><strong>3</strong> Photos</p></div></a></div>		
+				
+		<div class="background_ads_listing_1" >
+		
+		<a href="javascript:void(0)" data-heart="1" data-id="285693" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-285693-Centre-Loiret-Repliques-AEG-Ak-ics-et-m4" class="bloc_link_listing_1" title="Bonjour, je me sépare de mon ak ics 1 seul parti a son actif 200euros, et une m4 gaz avec interne  GHK  avec chargeur gaz 200euros"><p class="p_title_listing">Ak ics et m4</p><div class="bloc_address_listing"><p class="p_address_listing">Loiret<br />45470 Rebrechien</p><p class="p_price_listing"><strong>200,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/10/27/22/56/b2etzqtq93.jpg" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 27/10<br />à 22h56<br /><br /><strong>1</strong> Photo</p></div></a></div>		
+				
+		<div class="background_ads_listing_1" >
+		
+		<a href="javascript:void(0)" data-heart="1" data-id="285620" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-285620-Nord-Pas-de-Calais-Nord-Repliques-AEG-AK-Cyma-Crosse-pliable" class="bloc_link_listing_1" title="Bonjour, 
+
+Je vends cette AK Cyma avec 3 chargeur midcap et 2 chargeur hi cap. 3 batterie NIMH avec chargeur.
+
+Envoi possible ou en main propre sur Lommes (Lille)"><p class="p_title_listing">AK Cyma Crosse pliable</p><div class="bloc_address_listing"><p class="p_address_listing">Nord<br />59160 Lommes</p><p class="p_price_listing"><strong>120,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/10/27/17/05/97sit3s194.jpg" width="176" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 27/10<br />à 17h06<br /><br /><strong>2</strong> Photos</p></div></a></div>		
+				
+		<div class="background_ads_listing_1" >
+		
+		<a href="javascript:void(0)" data-heart="1" data-id="285494" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-285494-Pays-de-la-Loire-Loire-Atlantique-Repliques-AEG-HK416-BO-DYNAMICS" class="bloc_link_listing_1" title="Excellent état
+HK 416 Delta 416 DX Tan BO DYNAMICS AEG 
++ Batterie LiPo Special AK 7.4V 1600mAh ENERGY AIRSOFT et chargeur
+Canon long et silencieux , canon court d'origine inclus"><p class="p_title_listing">HK416 BO DYNAMICS</p><div class="bloc_address_listing"><p class="p_address_listing">Loire-Atlantique<br />44000 Nantes</p><p class="p_price_listing"><strong>200,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/10/26/19/05/9j71d069g1.jpg" width="176" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 26/10<br />à 19h06<br /><br /><strong>1</strong> Photo</p></div></a></div>		
+				
+		<div class="background_ads_listing_1" >
+		
+		<a href="javascript:void(0)" data-heart="1" data-id="285332" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-285332-Rhone-Alpes-Rhone-Repliques-AEG-AK74" class="bloc_link_listing_1" title="Bonjour 
+
+Je vend une Ak 74 base cyma avec patinage et bronzage , bois repris entièrement 
+Gear lct  en 18:1 / piston Cnc prod / tête de piston métal / cylindre atm / canon polis joint super ma..."><p class="p_title_listing">AK74</p><div class="bloc_address_listing"><p class="p_address_listing">Rhône<br />69210 SAINT GERMAIN NUELLE</p><p class="p_price_listing"><strong>250,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/10/25/10/51/97s3293221.jpg" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 25/10<br />à 10h52<br /><br /><strong>3</strong> Photos</p></div></a></div>		
+				
+		<div class="background_ads_listing_1" >
+		
+		<a href="javascript:void(0)" data-heart="1" data-id="285230" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-285230-Nord-Pas-de-Calais-Pas-de-Calais-Repliques-AEG-ak47-cybergun" class="bloc_link_listing_1" title="Bonjour,
+je vend mon ak 47 cybergun avec laquelle j'ai fait environ 5 parties.
+seul defaut une petite griffe sur le capot visible sur la photo.
+je la vend dans son carton d'origine avec les 2..."><p class="p_title_listing">ak47 cybergun</p><div class="bloc_address_listing"><p class="p_address_listing">Pas-de-Calais<br />62110 Hénin-Beaumont</p><p class="p_price_listing"><strong>120,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/10/24/16/07/61s3v03is4.jpg" width="176" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 24/10<br />à 16h07<br /><br /><strong>1</strong> Photo</p></div></a></div>		
+				
+		<div class="background_ads_listing_1" >
+		
+		<a href="javascript:void(0)" data-heart="1" data-id="284912" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-284912-Provence-Alpes-Cote-d-Azur-Var-Repliques-AEG-Ak-gbbr-we" class="bloc_link_listing_1" title="Vend ak gbbr we parfait état nettoyer
+
+3chargeur plus rails ak fourni et 2 crosses différents 
+
+Envoie PayPal mondiale relais ou main propre dans le 83
+
+0662766483 n'hésitez pas pour tout re..."><p class="p_title_listing">Ak gbbr we</p><div class="bloc_address_listing"><p class="p_address_listing">Var<br />83340 Le luc</p><p class="p_price_listing"><strong>400,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="template/images/no_photo2.png" width="176" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 21/10<br />à 19h06<br /><br /><strong>0</strong> Photo</p></div></a></div>		
+				
+		<div class="background_ads_listing_1" >
+		
+		<a href="javascript:void(0)" data-heart="1" data-id="284911" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-284911-Provence-Alpes-Cote-d-Azur-Var-Repliques-AEG-Ak-gbbr-we" class="bloc_link_listing_1" title="Vend ak gbbr we parfait état nettoyer
+
+3chargeur plus rails ak fourni et 2 crosses différents 
+
+Envoie PayPal mondiale relais ou main propre dans le 83
+
+0662766483 n'hésitez pas pour tout re..."><p class="p_title_listing">Ak gbbr we</p><div class="bloc_address_listing"><p class="p_address_listing">Var<br />83340 Le luc</p><p class="p_price_listing"><strong>400,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="template/images/no_photo2.png" width="176" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 21/10<br />à 19h06<br /><br /><strong>0</strong> Photo</p></div></a></div>		
+				
+		<div class="background_ads_listing_1" >
+		
+		<a href="javascript:void(0)" data-heart="1" data-id="284910" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-284910-Provence-Alpes-Cote-d-Azur-Var-Repliques-AEG-Ak-gbbr-we" class="bloc_link_listing_1" title="Vend ak gbbr we parfait état nettoyer
+
+3chargeur plus rails ak fourni et 2 crosses différents 
+
+Envoie PayPal mondiale relais ou main propre dans le 83
+
+0662766483 n'hésitez pas pour tout re..."><p class="p_title_listing">Ak gbbr we</p><div class="bloc_address_listing"><p class="p_address_listing">Var<br />83340 Le luc</p><p class="p_price_listing"><strong>400,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/10/21/19/04/s1e26imqi4.jpg" width="176" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 21/10<br />à 19h06<br /><br /><strong>3</strong> Photos</p></div></a></div>		
+				
+		<div class="background_ads_listing_1" >
+		
+		<a href="javascript:void(0)" data-heart="1" data-id="284858" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-284858-Alsace-Bas-Rhin-Repliques-AEG-Ktr-74-Jing-gong" class="bloc_link_listing_1" title="Vend Ktr 74 d'occasion
+A servi mais tir optimal
+Full métal et rail latéraux
+Support latéral ak métal
+Crosse squelette
+Bipied et chargeur dmr et standard high cap fournis
+Coup de peinture à prév..."><p class="p_title_listing">Ktr 74 Jing gong</p><div class="bloc_address_listing"><p class="p_address_listing">Bas-Rhin<br />67730 Chatenois</p><p class="p_price_listing"><strong>80,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/10/21/12/51/i8hp7d7464.jpg" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 21/10<br />à 12h52<br /><br /><strong>1</strong> Photo</p></div></a></div>		
+				
+		<div class="background_ads_listing_1" >
+		
+		<a href="javascript:void(0)" data-heart="1" data-id="284631" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-284631-Bretagne-Cotes-d-039-Armor-Repliques-AEG-Vends-lot-de-deux-repliques" class="bloc_link_listing_1" title="Bonjour je vend un lot de 2 répliques 
+
+Une m4 amoeba avec accessoires ( un reflex ,une poignée incliner ,et 2 chargeur supplémentaire) 
+
+Note à prendre: la m4 à pas de batterie 
+
+Un ak 74 avec ..."><p class="p_title_listing">Vends lot de deux répliques</p><div class="bloc_address_listing"><p class="p_address_listing">Côtes-d&amp;#039;Armor<br />22210 Plemet</p><p class="p_price_listing"><strong>240,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/10/19/18/44/a217qv9v64.jpg" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 19/10<br />à 18h46<br /><br /><strong>1</strong> Photo</p></div></a></div>		
+				
+		<div class="background_ads_listing_1" >
+		
+		<a href="javascript:void(0)" data-heart="1" data-id="284622" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-284622-Ile-de-France-Val-de-Marne-Repliques-AEG-AKS-74U" class="bloc_link_listing_1" title="Bonjour n'ayant pas le temps je me débarrasse de ma réplique AKS-74U de chez AK SERIES en excellent état avec batterie Lipo prix a débattre photos en privé"><p class="p_title_listing">AKS-74U</p><div class="bloc_address_listing"><p class="p_address_listing">Val-de-Marne<br />94290 Villeneuve-le-Roi</p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="template/images/no_photo2.png" width="176" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 19/10<br />à 18h19<br /><br /><strong>0</strong> Photo</p></div></a></div>		
+				
+		<div class="background_ads_listing_1" >
+		
+		<a href="javascript:void(0)" data-heart="1" data-id="284486" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-284486-Alsace-Bas-Rhin-Repliques-AEG-AKSU-E-L-full-upgrade-dont-pieces-RS" class="bloc_link_listing_1" title="Je vends mon AKSU de chez E&amp;L et ses 5 chargeurs
+
+Interne :
+
+Moteur neuf high torque SHS
+MOSFET Titan
+13:1
+Full shs
+Bloc hop up Promax
+Joint maple leaf
+
+En Externe :
+Crosse pt 3 5ku..."><p class="p_title_listing">AKSU E&amp;L full upgrade...</p><div class="bloc_address_listing"><p class="p_address_listing">Bas-Rhin<br />67520 NORDHEIM</p><p class="p_price_listing"><strong>560,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/10/18/16/31/jsmf3di39e.jpg" width="176" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 18/10<br />à 16h36<br /><br /><strong>2</strong> Photos</p></div></a></div>		
+				
+		<div class="background_ads_listing_1" >
+		
+		<a href="javascript:void(0)" data-heart="1" data-id="284454" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-284454-Aquitaine-Gironde-Repliques-AEG-AK74-LCT" class="bloc_link_listing_1" title="AK 74 LCT état neuf , n'a pas vu de terrain d'airsoft. 
+Equipé d'un mount picatiny et d'une Eotech (reste calme c'est pas une vraie)
+Tracer Unit Acetech , fontionne avec billes phosphorescentes. ..."><p class="p_title_listing">AK74 LCT</p><div class="bloc_address_listing"><p class="p_address_listing">Gironde<br />33400 Talence</p><p class="p_price_listing"><strong>350,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/10/18/12/14/5spd9qq771.jpg" width="176" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 18/10<br />à 12h14<br /><br /><strong>2</strong> Photos</p></div></a></div>		
+				
+		<div class="background_ads_listing_1" >
+		
+		<a href="javascript:void(0)" data-heart="1" data-id="284429" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-284429-Alsace-Bas-Rhin-Repliques-AEG-Accessoires-ak" class="bloc_link_listing_1" title="A vendre lot ou au détail accessoires de ak, me contacter pour plus d'informations. 
+
+Par SMS uniquement merci"><p class="p_title_listing">Accessoires ak</p><div class="bloc_address_listing"><p class="p_address_listing">Bas-Rhin<br />67100 Strasbourg</p><p class="p_price_listing"><strong>10,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/10/18/00/41/ais6r0t6s7.jpg" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 18/10<br />à 0h41<br /><br /><strong>1</strong> Photo</p></div></a></div>		
+				
+		<div class="background_ads_listing_1" >
+		
+		<a href="javascript:void(0)" data-heart="1" data-id="284005" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-284005-Rhone-Alpes-Isere-Repliques-AEG-Lot-AK-47" class="bloc_link_listing_1" title="Je vends ma kalashnikov AK 47 tactical folding stock version très peu utilisée dans un lot avec plusieurs accessoires et sa boîte d'origine.
+
+- 1 réplique AK 47
+- 3 batteries
+- 3 chargeurs
+- 1 pa..."><p class="p_title_listing">Lot AK 47</p><div class="bloc_address_listing"><p class="p_address_listing">Isère<br />38000 Grenoble</p><p class="p_price_listing"><strong>220,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/10/15/03/16/he42gs1z47.png" width="176" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 15/10<br />à 3h19<br /><br /><strong>3</strong> Photos</p></div></a></div>		
+				
+		<div class="background_ads_listing_1" >
+		
+		<a href="javascript:void(0)" data-heart="1" data-id="283621" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-283621-Rhone-Alpes-Rhone-Repliques-AEG-Lot-AK-74-equipement-complet" class="bloc_link_listing_1" title="Bonjour,
+
+Je mets en vente l'intégralité de mon équipement (très peu voire pas utilisé) qui comprend : 
+
+- 1 réplique AK 74 (+ 2 batteries)
+- 4 chargeurs
+- 1 viseur red dot
+- 1 house
+- 2 lunet..."><p class="p_title_listing">Lot AK 74 + équipement complet</p><div class="bloc_address_listing"><p class="p_address_listing">Rhône<br />69007 Lyon</p><p class="p_price_listing"><strong>200,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/10/11/18/32/yj7pqmdi7v.jpg" width="176" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 11/10<br />à 18h34<br /><br /><strong>3</strong> Photos</p></div></a></div>
+
+<div class="bloc_pagination bloc_pagination_bottom">
+
+     <a href="ads_search.php?l=1&amp;page=1" class="link_pagination_sel">1</a><a href="ads_search.php?l=1&amp;page=2" class="link_pagination">2</a><a href="ads_search.php?l=1&amp;page=2" class="link_pagination">page suivante ></a><a href="ads_search.php?l=1&amp;page=2" class="link_pagination">dernière page</a>
+</div>
+	
+
+</div>	
+
+<div id="body_search">
+
+
+</div>
+
+</div>
+</div>
+
+<div id="bloc_categories_1">
+	<div id="bloc_categories_2">
+	<div style="clear: both;"><nav><ul class="ul_categories"><li class="li_title_categories">EMPLOIS...</li><li class="li_categories"><a href="ads_search.php?cat=189">EMPLOIS dans...</a></li></ul></nav></div><nav><ul class="ul_categories"><li class="li_title_categories">Terrains...</li><li class="li_categories"><a href="ads_search.php?cat=181">Recherche terrain</a></li><li class="li_categories"><a href="ads_search.php?cat=182">Location de terrain</a></li><li class="li_categories"><a href="ads_search.php?cat=183">Partie organisée...</a></li></ul></nav><nav><ul class="ul_categories"><li class="li_title_categories">Recherche...</li><li class="li_categories"><a href="ads_search.php?cat=177">Recherche...</a></li><li class="li_categories"><a href="ads_search.php?cat=178">Recrute joueurs</a></li></ul></nav><nav><ul class="ul_categories"><li class="li_title_categories">Echanges...</li><li class="li_categories"><a href="ads_search.php?cat=170">Recherches</a></li><li class="li_categories"><a href="ads_search.php?cat=169">Echanges</a></li></ul></nav><nav><ul class="ul_categories"><li class="li_title_categories_2">Répliques...</li><li class="li_categories"><a href="ads_search.php?cat=117">De Poing au CO²</a></li><li class="li_categories"><a href="ads_search.php?cat=71">De Poing à Gaz</a></li><li class="li_categories"><a href="ads_search.php?cat=72">De Poing AEP</a></li><li class="li_categories"><a href="ads_search.php?cat=153">De Poing spring</a></li></ul></nav><div style="clear: both;"><nav><ul class="ul_categories"><li class="li_title_categories">Répliques...</li><li class="li_categories"><a href="ads_search.php?cat=95">Répliques AEG</a></li><li class="li_categories"><a href="ads_search.php?cat=96">AEG Blowback EBB</a></li><li class="li_categories"><a href="ads_search.php?cat=97">Gaz Blowback GBB</a></li><li class="li_categories"><a href="ads_search.php?cat=179">Répliques spring</a></li></ul></nav></div><nav><ul class="ul_categories"><li class="li_title_categories">HPA</li><li class="li_categories"><a href="ads_search.php?cat=191">HPA</a></li></ul></nav><nav><ul class="ul_categories"><li class="li_title_categories">Snipes</li><li class="li_categories"><a href="ads_search.php?cat=139">Snipes spring</a></li><li class="li_categories"><a href="ads_search.php?cat=175">Snipes gaz</a></li><li class="li_categories"><a href="ads_search.php?cat=192">Snipes CO²</a></li></ul></nav><nav><ul class="ul_categories"><li class="li_title_categories">Fusils à...</li><li class="li_categories"><a href="ads_search.php?cat=140">Fusils à Pompes</a></li></ul></nav><nav><ul class="ul_categories"><li class="li_title_categories_2">Historique</li><li class="li_categories"><a href="ads_search.php?cat=194">Répliques de Poing</a></li><li class="li_categories"><a href="ads_search.php?cat=195">Répliques Longues</a></li></ul></nav><div style="clear: both;"><nav><ul class="ul_categories"><li class="li_title_categories">Chargeurs...</li><li class="li_categories"><a href="ads_search.php?cat=127">Chargeurs CO²</a></li><li class="li_categories"><a href="ads_search.php?cat=128">Chargeurs GAZ</a></li><li class="li_categories"><a href="ads_search.php?cat=152">Chargeurs AEG</a></li><li class="li_categories"><a href="ads_search.php?cat=171">Chargeurs AEP</a></li></ul></nav></div><nav><ul class="ul_categories"><li class="li_title_categories">Grenades...</li><li class="li_categories"><a href="ads_search.php?cat=142">Grenades</a></li><li class="li_categories"><a href="ads_search.php?cat=143">Lanceurs de Grenades</a></li><li class="li_categories"><a href="ads_search.php?cat=144">Mines</a></li></ul></nav><nav><ul class="ul_categories"><li class="li_title_categories">Lunettes...</li><li class="li_categories"><a href="ads_search.php?cat=132">Lampes</a></li><li class="li_categories"><a href="ads_search.php?cat=133">Lasers</a></li><li class="li_categories"><a href="ads_search.php?cat=134">Lunettes</a></li><li class="li_categories"><a href="ads_search.php?cat=135">Red Dot</a></li></ul></nav><nav><ul class="ul_categories"><li class="li_title_categories">Pièces...</li><li class="li_categories"><a href="ads_search.php?cat=122">Anneaux</a></li><li class="li_categories"><a href="ads_search.php?cat=123">Attache Sangle</a></li><li class="li_categories"><a href="ads_search.php?cat=124">Bi-Pied</a></li><li class="li_categories"><a href="ads_search.php?cat=125">Cache Flamme...</a></li><li class="li_categories"><a href="ads_search.php?cat=129">Poignées &amp;amp;...</a></li><li class="li_categories"><a href="ads_search.php?cat=126">Corps de Réplique...</a></li><li class="li_categories"><a href="ads_search.php?cat=174">Rails</a></li><li class="li_categories"><a href="ads_search.php?cat=154">Silencieux...</a></li></ul></nav><nav><ul class="ul_categories"><li class="li_title_categories_2">Pièces...</li><li class="li_categories"><a href="ads_search.php?cat=156">Bushings</a></li><li class="li_categories"><a href="ads_search.php?cat=155">Canons de...</a></li><li class="li_categories"><a href="ads_search.php?cat=157">Cylindres</a></li><li class="li_categories"><a href="ads_search.php?cat=149">Divers</a></li><li class="li_categories"><a href="ads_search.php?cat=165">Gearbox</a></li><li class="li_categories"><a href="ads_search.php?cat=158">Joints hop-up</a></li><li class="li_categories"><a href="ads_search.php?cat=164">Nozzels</a></li><li class="li_categories"><a href="ads_search.php?cat=163">Pignons gearbox</a></li><li class="li_categories"><a href="ads_search.php?cat=160">Pistons</a></li><li class="li_categories"><a href="ads_search.php?cat=159">Ressorts</a></li><li class="li_categories"><a href="ads_search.php?cat=161">Têtes de cylindres </a></li><li class="li_categories"><a href="ads_search.php?cat=162">Têtes de pistons </a></li></ul></nav><div style="clear: both;"><nav><ul class="ul_categories"><li class="li_title_categories">Batteries...</li><li class="li_categories"><a href="ads_search.php?cat=150">Batteries &amp;...</a></li></ul></nav></div><nav><ul class="ul_categories"><li class="li_title_categories">Vêtements...</li><li class="li_categories"><a href="ads_search.php?cat=145">Vêtements &amp;...</a></li></ul></nav><nav><ul class="ul_categories"><li class="li_title_categories">Répliques...</li><li class="li_categories"><a href="ads_search.php?cat=141">Répliques Enfants</a></li></ul></nav><nav><ul class="ul_categories"><li class="li_title_categories">Divers</li><li class="li_categories"><a href="ads_search.php?cat=147">Divers</a></li></ul></nav><nav><ul class="ul_categories"><li class="li_title_categories_2">PaintBall</li><li class="li_categories"><a href="ads_search.php?cat=167">PaintBall</a></li></ul></nav><div style="clear: both;"><nav><ul class="ul_categories"><li class="li_title_categories">Modèles...</li><li class="li_categories"><a href="ads_search.php?cat=173">Modèles Réduits</a></li></ul></nav></div><nav><ul class="ul_categories"><li class="li_title_categories">Magasines...</li><li class="li_categories"><a href="ads_search.php?cat=146">Magasines</a></li></ul></nav><nav><ul class="ul_categories"><li class="li_title_categories">Calibre...</li><li class="li_categories"><a href="ads_search.php?cat=187">Calibre 4.5mm</a></li></ul></nav><nav><ul class="ul_categories"><li class="li_title_categories">ration...</li><li class="li_categories"><a href="ads_search.php?cat=197">Ration militaire</a></li></ul></nav><div style="clear: both;"></div><div style="clear: both;"></div><div style="clear: both;"></div><div style="clear: both;"></div><div style="clear: both;"></div><div style="clear: both;"></div><div style="clear: both;"></div><div style="clear: both;"></div><div style="clear: both;"></div><div style="clear: both;"></div><div style="clear: both;"></div><div style="clear: both;"></div><div style="clear: both;"></div>	</div>
+</div>
+
+
+<footer id="bloc_footer_1">
+	<div id="bloc_footer_2">
+	
+		<div id="left_footer">
+			<p id="p_footer_left">
+				Copyright &copy; <a class="lien_foot" href="https://www.airsoft-occasion.fr">Airsoft Occasion</a> 			</p>
+		</div>
+		
+		<div id="right_footer">
+			<p id="p_footer_right">
+				
+				<a href="Page-1-FAQ">FAQ</a> - <a href="Page-2-Regles-de-Diffusion">Règles de Diffusion</a> - <a href="Page-3-Informations-Legales-CGU">Informations Légales / CGU</a> - <a href="Page-8-Adresses-mail-des-Arnaque-et-Arnaqueur">Adresses mail des Arnaque et Arnaqueur</a> - <a href="Page-9-Devenez-Annonceur">Devenez Annonceur</a> - <a href="Page-10-Faire-un-don">Faire un don</a> - 				
+				<a href="send_contact.php">Nous contacter</a>
+			</p>
+		</div>
+		
+	</div>
+</footer>
+
+</div>
+</div>
+
+<script src="js/jquery-1.11.2.min.js"></script>
+<script src="js/jquery-11.4.ui.min.js"></script>
+<script src="js/functions_js.js"></script>
+<script>
+$(document).ready(function() {
+	$('body').data('data_file_exit', '');
+	
+	console.log('data');
+	console.log($('body').data('data_file_exit'));
+})
+</script>
+
+<script src="js/map.js"></script>
+
+<script>
+	var visit_latitude = 0;
+	var visit_longitude = 0;
+</script>
+	<script>
+	$.datepicker.regional['fr'] = {
+		closeText: 'Fermer',
+		prevText: 'Préc',
+		nextText: 'Suiv',
+		currentText: 'Aujourd\'hui',
+		monthNames: ["Janvier","Février","Mars","Avril","Mai","Juin", "Juillet","Août","Septembre","Octobre","Novembre","Décembre"],
+		monthNamesShort: ["Jan","Fév","Mar","Avr","Mai","Jun", "Jul","Aoû","Sep","Oct","Nov","Déc"],
+		dayNames: ["Dimanche","Lundi","Mardi","Mercredi","Jeudi","Vendredi","Samedi"],
+		dayNamesShort: ["Dim","Lun","Mar","Mer","Jeu","Ven","Sam"],
+		dayNamesMin: ["Di","Lu","Ma","Me","Je","Ve","Sa"],
+		weekHeader: 'Sm',
+		dateFormat: 'dd/mm/yy',
+		firstDay: 1,
+		isRTL: false,
+		showMonthAfterYear: false,
+		yearSuffix: ''
+	};
+	$.datepicker.setDefaults($.datepicker.regional['fr']);
+	</script>
+	<script src="includes/calendar/fns_js_cal.js"></script>
+	
+<script>
+window.___gcfg = {lang: 'fr'}; 
+
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/platform.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+<div id="valid_cookies">En poursuivant votre navigation sur notre site, vous acceptez l’utilisation de Cookies.<br /><br /><a id="cookie_accept" href="javascript:void(0)">OK</a></div>
+</body>
+</html>
+
