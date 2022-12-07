@@ -22,6 +22,7 @@ replique_dejavu = []
 def get_liens(recherche):
 
     response = requests.get("https://www.airsoft-occasion.fr/ads_search.php?sort=1&status=0&keywords="+recherche+"&postcode=&reg=0&cat=95&search_start_date=&search_end_date=&offer=1")
+    print(response)
     #pdb.set_trace()
     pattern_lien = '<a href="Ads(.+?)" class="bloc_link_listing_1"'
     pattern_id = 'data-id="(.+?)"'
@@ -34,22 +35,24 @@ def get_liens(recherche):
         id_ad = re.findall(pattern_id, main)
         liens = re.findall(pattern_lien, main)
         for h in id_ad:
-            liens_id.append(h)
-        for u in liens :
-            liens_replique = ('https://www.airsoft-occasion.fr/Ads%s' % u)
-            liens_a.append(liens_replique)
+            if h not in id_dejavu :
+                #print("id_deja_vu : ",id_dejavu)
+                liens_id.append(h)
+                for u in liens:
+                    liens_replique = ('https://www.airsoft-occasion.fr/Ads%s' % u)
+                    liens_a.append(liens_replique)
+                for x in range(len(liens_id)):
+                    dic_liens[liens_id[x]] = liens_a[x]
+                    scrap()
+                id_dejavu.append(h)
 
-        for x in range(len(liens_id)):
-            #time.sleep(1)
-            if liens_id[x] in id_dejavu :
-                #print('deja vu',x)
-                pass
             else:
-                dic_liens[liens_id[x]] = liens_a[x]
-               # print(dic_liens)
-                scrap()
-                id_dejavu.append(liens_id[x])
-                print('nouveau')
+                pass
+
+            #for x in range(len(liens_id)):
+                #dic_liens[liens_id[x]] = liens_a[x]
+                #scrap()
+        #print(dic_liens)
     return()
 
     # en haut ça se connecter et cela recupere les liens des annonce sur la 1er pages
@@ -98,12 +101,12 @@ def scrap():
             for h in liste_image:
                 image_annonce = "https://www.airsoft-occasion.fr/" + str(h).replace('<img alt="" class="thumbnail" onclick="',"").replace('"/>', "").replace('currentSlide(1)" src="', "").replace('currentSlide(2)" src="', "").replace('currentSlide(3)" src="',"").replace('currentSlide(0)" src="', "")
                 liste_image_annonce.append(image_annonce)
-            #print( 'annonce n°%i :' %p,nom, date, prix, ville, titre,num_tel, liste_image_annonce)
+            print( 'annonce n°%i :' %p,nom, date, prix, ville, titre,num_tel, liste_image_annonce)
             #annonce[nom, date, prix, ville, titre,num_tel]
             id_dejavu.append(d)
-            p += 1
+        p += 1
 
-            return(print( 'annonce n°%i :' %p,nom, date, prix, ville, titre,num_tel, liste_image_annonce))
+    return()
 
 
 
@@ -112,10 +115,10 @@ def scrap():
 search = 'ak' #str(input("entrer la recherche : "))
 while True :
     get_liens(search)
-    #time.sleep(1)
+    time.sleep(1)
 
-else :
-    False
+
+
 
 
 
