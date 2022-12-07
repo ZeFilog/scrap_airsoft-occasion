@@ -18,8 +18,6 @@ annonce = {'nom','date','prix','ville','titre','num_tel','liste_image_annonce'}
 
 def get_liens(recherche):
     response = requests.get("https://www.airsoft-occasion.fr/ads_search.php?sort=1&status=0&keywords="+recherche+"&postcode=&reg=0&cat=95&search_start_date=&search_end_date=&offer=1")
-    print(response)
-    #pdb.set_trace()
     pattern_lien = '<a href="Ads(.+?)" class="bloc_link_listing_1"'
     pattern_id = 'data-id="(.+?)"'
 
@@ -61,8 +59,8 @@ def scrap():
                 url = "https://www.airsoft-occasion.fr/acc_connexion.php?type=1"
                 s.get(url)
                 login_data = {'email_con': email, 'password': mdp}
-                aa = s.post(url, data=login_data)
-                main1 = s.get(l)
+                s.post(url, data=login_data)
+                s.get(l)
                 num_tel = s.post('https://www.airsoft-occasion.fr/includes/display/display_phone_ad.php',data={'id_ad': d}).text.replace('<a href=', '').replace('</a>',"")
             nom = page_soup.find('a', 'second_color').text
             date = page_soup.find('time').text

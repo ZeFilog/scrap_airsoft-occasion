@@ -38,7 +38,7 @@
 		
 				<meta property="og:title" content="Airsoft Occasion : Petites Annonces Répliques AEG   - Airsoft Occasion" />
 		<meta property="og:type" content="website" />
-		<meta property="og:url" content="https://www.airsoft-occasion.fr/ads_search.php?sort=1&status=0&keywords=glock&postcode=&reg=0&cat=95&search_start_date=&search_end_date=&offer=1"/>
+		<meta property="og:url" content="https://www.airsoft-occasion.fr/ads_search.php?sort=1&status=0&keywords=ak&postcode=&reg=0&cat=95&search_start_date=&search_end_date=&offer=1"/>
 		<meta property="og:site_name" content="Airsoft Occasion"/>
 		<meta property="og:description" content="">
 			
@@ -60,8 +60,8 @@
 	<nav id="right_top_header">
 		<div class="bloc_networks">
 						<a onclick="window.open(this.href); return false;" rel="nofollow" href="https://www.airsoft-occasion.fr/rss/Airsoft-Occasion.xml"><img src="template/images/small_rss.png" width="20" height="20"  alt="" /></a>&nbsp;
-						<a onclick="window.open(this.href); return false;" rel="nofollow" href="http://www.facebook.com/share.php?u=http://www.airsoft-occasion.fr/ads_search.php?sort=1&status=0&keywords=glock&postcode=&reg=0&cat=95&search_start_date=&search_end_date=&offer=1"><img src="template/images/small_facebook.png" width="20" height="20" alt="" /></a>&nbsp;
-			<a onclick="window.open(this.href); return false;" rel="nofollow" href="http://twitter.com/share?url=http://www.airsoft-occasion.fr/ads_search.php?sort=1&status=0&keywords=glock&postcode=&reg=0&cat=95&search_start_date=&search_end_date=&offer=1"><img src="template/images/small_twitter.png" width="20" height="20"  alt="" /></a>&nbsp;
+						<a onclick="window.open(this.href); return false;" rel="nofollow" href="http://www.facebook.com/share.php?u=http://www.airsoft-occasion.fr/ads_search.php?sort=1&status=0&keywords=ak&postcode=&reg=0&cat=95&search_start_date=&search_end_date=&offer=1"><img src="template/images/small_facebook.png" width="20" height="20" alt="" /></a>&nbsp;
+			<a onclick="window.open(this.href); return false;" rel="nofollow" href="http://twitter.com/share?url=http://www.airsoft-occasion.fr/ads_search.php?sort=1&status=0&keywords=ak&postcode=&reg=0&cat=95&search_start_date=&search_end_date=&offer=1"><img src="template/images/small_twitter.png" width="20" height="20"  alt="" /></a>&nbsp;
 			<div class="g-plusone" data-size="medium" data-count="true"></div>
 		</div>
 		
@@ -112,7 +112,7 @@
 	<input type="hidden" name="sort" value="1" />
 	<input type="hidden" name="status" value="0" />
 	
-	<input type="text" class="input_search" name="keywords" placeholder="Tapez votre recherche" value="glock" />
+	<input type="text" class="input_search" name="keywords" placeholder="Tapez votre recherche" value="ak" />
 		
 				<input type="text" class="input_search" name="postcode" placeholder="Code postal (ex:35000)" value="" />
 			  
@@ -252,10 +252,10 @@
 
 		<a class="link_info_ads_sel" href="ads_search.php?l=1&amp;sort=1">Toutes les annonces :</a>
 	
-	<span class="txt_info_nb_ads">&nbsp; 1 à 30 sur  18 &nbsp;</span>
+	<span class="txt_info_nb_ads">&nbsp; 1 à 30 sur  66 &nbsp;</span>
 		<a class="link_info_ads" href="ads_search.php?l=1&amp;status=1&amp;sort=1">Particulier :</a>
 		
-	<span class="txt_info_nb_ads">&nbsp; 18 &nbsp;</span>
+	<span class="txt_info_nb_ads">&nbsp; 66 &nbsp;</span>
 		<a class="link_info_ads" href="ads_search.php?l=1&amp;status=2&amp;sort=1">Professionnel :</a>
 		
 	<span class="txt_info_nb_ads">&nbsp; 0 &nbsp;</span>	
@@ -266,7 +266,7 @@
 <div class="bloc_center"><div class="middle_bloc_center"><div id="body_listing">
 <div class="bloc_pagination ">
 
-     <a href="ads_search.php?l=1&amp;page=1" class="link_pagination_sel">1</a><a href="ads_search.php?l=1&amp;page=1&amp;sort=2" class="link_display">Trier par prix</a>
+     <a href="ads_search.php?l=1&amp;page=1" class="link_pagination_sel">1</a><a href="ads_search.php?l=1&amp;page=2" class="link_pagination">2</a><a href="ads_search.php?l=1&amp;page=3" class="link_pagination">3</a><a href="ads_search.php?l=1&amp;page=2" class="link_pagination">page suivante ></a><a href="ads_search.php?l=1&amp;page=3" class="link_pagination">dernière page</a><a href="ads_search.php?l=1&amp;page=1&amp;sort=2" class="link_display">Trier par prix</a>
 </div>
 	
 
@@ -275,130 +275,268 @@
 				
 		<div class="background_ads_listing_1" >
 		
-		<a href="javascript:void(0)" data-heart="1" data-id="290692" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-290692-Aquitaine-Repliques-AEG-ventes-materiel" class="bloc_link_listing_1" title="Bonjour je vend du matériel d'airsoft ainsi que des répliques :
-je vend un porte plaque avec 3 pochette chargeurs type M4 et une pochette pour chargeur PA et une poche poubelle dessus ( placé de..."><p class="p_title_listing">ventes matériel</p><div class="bloc_address_listing"><p class="p_address_listing">Aquitaine<br />40000 mont de marsan</p><p class="p_price_listing"><strong>300,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/12/04/20/59/926r1vi3z6.jpg" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 04/12<br />à 20h59<br /><br /><strong>3</strong> Photos</p></div></a></div>		
-				
-		<div class="background_ads_listing_1" >
-		
-		<a href="javascript:void(0)" data-heart="1" data-id="290031" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-290031-Pays-de-la-Loire-Sarthe-Repliques-AEG-MATERIEL-AIRSOFT-COMPLET" class="bloc_link_listing_1" title="Bonjour, je vends mon matériel airsoft car je ne l’utilise plus depuis plus d’un an, il est stocké dans les boites de rangement. Tout le matériel a été acheté en même temps et n’a été utilisé que pour..."><p class="p_title_listing">MATÉRIEL AIRSOFT COMPLET</p><div class="bloc_address_listing"><p class="p_address_listing">Sarthe<br />72160 Duneau</p><p class="p_price_listing"><strong>650,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="template/images/no_photo2.png" width="176" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 29/11<br />à 16h35<br /><br /><strong>0</strong> Photo</p></div></a></div>		
-				
-		<div class="background_ads_listing_1" >
-		
-		<a href="javascript:void(0)" data-heart="1" data-id="290030" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-290030-Pays-de-la-Loire-Sarthe-Repliques-AEG-MATERIEL-AIRSOFT-COMPLET" class="bloc_link_listing_1" title="Bonjour, je vends mon matériel airsoft car je ne l’utilise plus depuis plus d’un an, il est stocké dans les boites de rangement. Tout le matériel a été acheté en même temps et n’a été utilisé que pour..."><p class="p_title_listing">MATÉRIEL AIRSOFT COMPLET</p><div class="bloc_address_listing"><p class="p_address_listing">Sarthe<br />72160 Duneau</p><p class="p_price_listing"><strong>650,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="template/images/no_photo2.png" width="176" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 29/11<br />à 16h34<br /><br /><strong>0</strong> Photo</p></div></a></div>		
-				
-		<div class="background_ads_listing_1" >
-		
-		<a href="javascript:void(0)" data-heart="1" data-id="289950" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-289950-Alsace-Bas-Rhin-Repliques-AEG-REPLIQUE-HK416-equipement" class="bloc_link_listing_1" title="Détail de l'annonce
+		<a href="javascript:void(0)" data-heart="1" data-id="290951" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-290951-Haute-Normandie-Seine-Maritime-Repliques-AEG-ak-cm520" class="bloc_link_listing_1" title="Bonjour je vends ma cm 520 de chez cyma, acheté chez taiwangun, suite à un changement de gamme de réplique.
+Elle ne m’a jamais servi en partie, juste pour faire quelques tests.
 
-Je vends mon équipement d’airsoft neuf utilisé qu’une seule fois.
-Je n’ai malheureusement pas le temps d’en faire, il dort donc dans l’armoire.
+A noter qu’elle sor..."><p class="p_title_listing">ak cm520</p><div class="bloc_address_listing"><p class="p_address_listing">Seine-Maritime<br />76700 Gainneville</p><p class="p_price_listing"><strong>40,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/12/07/18/41/9i39413tq6.jpeg" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Aujourd&#039;hui <br />à 18h43<br /><br /><strong>2</strong> Photos</p></div></a></div>		
+				
+		<div class="background_ads_listing_1" >
+		
+		<a href="javascript:void(0)" data-heart="1" data-id="290933" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-290933-Bourgogne-Saone-et-Loire-Repliques-AEG-Tokyo-Marui-Next-Gen-AK-Storm-Recoil" class="bloc_link_listing_1" title="Tokyo marui ak storm neuve jamais utilisé
 
-RÉPLIQUE : HK416 SPECNA ARMS ..."><p class="p_title_listing">RÉPLIQUE HK416 + équipement</p><div class="bloc_address_listing"><p class="p_address_listing">Bas-Rhin<br />67100 Strasbourg</p><p class="p_price_listing"><strong>450,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/11/28/20/52/sd2d5iz946.jpeg" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 28/11<br />à 20h53<br /><br /><strong>2</strong> Photos</p></div></a></div>		
-				
-		<div class="background_ads_listing_1" >
-		
-		<a href="javascript:void(0)" data-heart="1" data-id="289659" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-289659-Nord-Pas-de-Calais-Nord-Repliques-AEG-G36" class="bloc_link_listing_1" title="je vends mon g36c de chez umarex, il n’a pas servi depuis pas mal de temps mais fonctionne toujours bien, vendu avec 2 chargeurs, il a quelques traces d’usure, je m’en débarrasse.
-ouvert à l’échange ..."><p class="p_title_listing">G36</p><div class="bloc_address_listing"><p class="p_address_listing">Nord<br />59115 leers</p><p class="p_price_listing"><strong>65,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/11/26/13/04/a314v942i6.png" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 26/11<br />à 13h07<br /><br /><strong>1</strong> Photo</p></div></a></div>		
-				
-		<div class="background_ads_listing_1" >
-		
-		<a href="javascript:void(0)" data-heart="1" data-id="289372" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-289372-Pays-de-la-Loire-Sarthe-Repliques-AEG-Vends-tenue-complete-airsoft" class="bloc_link_listing_1" title="Bonjour, je vends mon matériel airsoft car je ne l’utilise plus depuis plus d’un an, il est stocké dans les boites de rangement. Tout le matériel a été acheté en même temps et n’a été utilisé que pour..."><p class="p_title_listing">Vends tenue complète airsoft</p><div class="bloc_address_listing"><p class="p_address_listing">Sarthe<br />72160 duneau</p><p class="p_price_listing"><strong>800,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="template/images/no_photo2.png" width="176" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 23/11<br />à 22h16<br /><br /><strong>0</strong> Photo</p></div></a></div>		
-				
-		<div class="background_ads_listing_1" >
-		
-		<a href="javascript:void(0)" data-heart="1" data-id="289370" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-289370-Pays-de-la-Loire-Sarthe-Repliques-AEG-Vends-tenue-complete-airsoft" class="bloc_link_listing_1" title="Bonjour, je vends mon matériel airsoft car je ne l’utilise plus depuis plus d’un an, il est stocké dans les boites de rangement. Tout le matériel a été acheté en même temps et n’a été utilisé que pour..."><p class="p_title_listing">Vends tenue complète airsoft</p><div class="bloc_address_listing"><p class="p_address_listing">Sarthe<br />72160 duneau</p><p class="p_price_listing"><strong>800,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/11/23/22/04/6343956z46.jpeg" width="176" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 23/11<br />à 22h04<br /><br /><strong>3</strong> Photos</p></div></a></div>		
-				
-		<div class="background_ads_listing_1" >
-		
-		<a href="javascript:void(0)" data-heart="1" data-id="288447" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-288447-Nord-Pas-de-Calais-Pas-de-Calais-Repliques-AEG-Repliques-airsoft" class="bloc_link_listing_1" title="Bonjour vend mes répliques airsoft j’en n’est plus l’utilité. 
+Modèle aeg avec recule
 
-M4 métal full. je me souvient pu des pièces exactement. moteur titan v2 engrenages 13/1 équiper sur l’m4 toute les factures des pièces..."><p class="p_title_listing">Répliques airsoft</p><div class="bloc_address_listing"><p class="p_address_listing">Pas-de-Calais<br />62320 Rouvroy</p><p class="p_price_listing"><strong>600,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/11/16/22/37/292rfqqd5v.jpeg" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 16/11<br />à 22h37<br /><br /><strong>2</strong> Photos</p></div></a></div>		
-				
-		<div class="background_ads_listing_1" >
-		
-		<a href="javascript:void(0)" data-heart="1" data-id="288289" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-288289-Auvergne-Puy-de-Dome-Repliques-AEG-Lot-airsoft" class="bloc_link_listing_1" title="Vends diverses répliques , toutes les répliques sont upgrade 
-Vends au détail ou lot  
+Vendu avec tout ces accessoires d’origine ( raille manuel ect)
 
-M16 vfc 150€
-canon edgi 
-Bloc et joint hop un shs 
-Piston et et tête de piston shs
-Cylindre shs 
-Moteur ..."><p class="p_title_listing">Lot airsoft</p><div class="bloc_address_listing"><p class="p_address_listing">Puy-de-Dôme<br />63310 Randan</p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/11/16/09/04/a6822i93i1.jpg" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 16/11<br />à 9h10<br /><br /><strong>3</strong> Photos</p></div></a></div>		
-				
-		<div class="background_ads_listing_1" >
-		
-		<a href="javascript:void(0)" data-heart="1" data-id="287395" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-287395-Aquitaine-Gironde-Repliques-AEG-Pack-repliques-M4-CQB-G17-accessoires" class="bloc_link_listing_1" title="Je vend mes répliques d’airsort, elles n’ont servie que 3 fois et sur des parties courtes. Ce pack comprend :
+Me contacter par MESSAGE au 06 23 55 22 28
 
-- une M4 électrique de chez lancer tactical 
-- Un Glock 17 de chez G&amp;G armement 
-..."><p class="p_title_listing">Pack répliques M4 CQB + G17 + ...</p><div class="bloc_address_listing"><p class="p_address_listing">Gironde<br />33440 Ambares-et-Lagrave</p><p class="p_price_listing"><strong>350,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/11/10/16/19/s127m329z7.jpeg" width="176" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 10/11<br />à 16h21<br /><br /><strong>6</strong> Photos</p></div></a></div>		
+Envois possible, ..."><p class="p_title_listing">Tokyo Marui (Next-Gen) AK...</p><div class="bloc_address_listing"><p class="p_address_listing">Saône-et-Loire<br />71100 chalon sur saone</p><p class="p_price_listing"><strong>350,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/12/07/17/46/5t6idg7sz4.jpg" width="176" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Aujourd&#039;hui <br />à 17h46<br /><br /><strong>2</strong> Photos</p></div></a></div>		
 				
 		<div class="background_ads_listing_1" >
 		
-		<a href="javascript:void(0)" data-heart="1" data-id="287050" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-287050-Ile-de-France-Yvelines-Repliques-AEG-Divers-repliques" class="bloc_link_listing_1" title="A vendre plusieurs répliques dont une M4 full métal, un Scar H vfc CQB, un Glock 34 Stark Arms CO2 et une culasse WE Sylver pour G18c
+		<a href="javascript:void(0)" data-heart="1" data-id="290859" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-290859-Poitou-Charentes-Charente-Maritime-Repliques-AEG-AK-storm-marui-blowback" class="bloc_link_listing_1" title="Bonjour,
 
-Plus d'infos en pv ou TPH"><p class="p_title_listing">Divers répliques</p><div class="bloc_address_listing"><p class="p_address_listing">Yvelines<br />78110 Le Vésinet</p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/11/07/18/44/7eq20sidv8.jpg" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 07/11<br />à 18h46<br /><br /><strong>3</strong> Photos</p></div></a></div>		
+Je mets en vente une réplique du AK storm Tokyo Marui.
+La réplique est en excellent état, câblage batterie Lipo (pas comme les types 416 avec batterie propriétaire), elle a le système blo..."><p class="p_title_listing">AK storm marui blowback</p><div class="bloc_address_listing"><p class="p_address_listing">Charente-Maritime<br />17 Rochefort</p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="template/images/no_photo2.png" width="176" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Hier <br />à 18h30<br /><br /><strong>0</strong> Photo</p></div></a></div>		
 				
 		<div class="background_ads_listing_1" >
 		
-		<a href="javascript:void(0)" data-heart="1" data-id="287045" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-287045-Alsace-Bas-Rhin-Repliques-AEG-REPLIQUE-HK416-EQUIPEMENT" class="bloc_link_listing_1" title="Je vends mon équipement d’airsoft neuf utilisé qu’une seule fois.
-Je n’ai malheureusement pas le temps d’en faire, il dort donc dans l’armoire.
+		<a href="javascript:void(0)" data-heart="1" data-id="290825" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-290825-Bretagne-Ille-et-Vilaine-Repliques-AEG-Ak-lct" class="bloc_link_listing_1" title="Vends corps réplique AK lct neuf sans Gear box"><p class="p_title_listing">Ak lct</p><div class="bloc_address_listing"><p class="p_address_listing">Ille-et-Vilaine<br />35000 Rennes</p><p class="p_price_listing"><strong>200,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/12/06/10/58/a96nm39i84.png" width="176" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Hier <br />à 10h58<br /><br /><strong>1</strong> Photo</p></div></a></div>		
+				
+		<div class="background_ads_listing_1" >
+		
+		<a href="javascript:void(0)" data-heart="1" data-id="290803" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-290803-Rhone-Alpes-Rhone-Repliques-AEG-AK-74-E-L-PA-WE-HI-CAPA" class="bloc_link_listing_1" title="Bonjour à tous et à toutes,
 
-RÉPLIQUE : HK416 SPECNA ARMS avec batteries et boîte..."><p class="p_title_listing">RÉPLIQUE HK416 + ÉQUIPEMENT</p><div class="bloc_address_listing"><p class="p_address_listing">Bas-Rhin<br />67100 Strasbourg</p><p class="p_price_listing"><strong>500,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/11/07/17/59/y9372o9573.jpeg" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 07/11<br />à 18h00<br /><br /><strong>2</strong> Photos</p></div></a></div>		
+Je vends une AK-74 de la marque E&amp;L full métal interne renforcé avec 2 chargeurs mid-cap (130 et 170 bbs) + un rail d'extension et un protège-lunette. Batterie LiPo ..."><p class="p_title_listing">AK 74 E&amp;L + PA WE HI-CAPA</p><div class="bloc_address_listing"><p class="p_address_listing">Rhône<br />69003 Lyon</p><p class="p_price_listing"><strong>220,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/12/05/21/56/ymim426s41.jpeg" width="176" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 05/12<br />à 21h56<br /><br /><strong>2</strong> Photos</p></div></a></div>		
 				
 		<div class="background_ads_listing_1" >
 		
-		<a href="javascript:void(0)" data-heart="1" data-id="286910" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-286910-Pays-de-la-Loire-Vendee-Repliques-AEG-Hk416-glock-17-et-autres" class="bloc_link_listing_1" title="Bonjour, suite a l'arret de la discipline pour cause de manque de temps, je vend tout mon matos acheter en debut de saison 2019 donc casi neuf car confiné en mars 2019.
-je peut expédier a vos f..."><p class="p_title_listing">Hk416, glock 17 et autres</p><div class="bloc_address_listing"><p class="p_address_listing">Vendée<br />85600 la boissiere de...</p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/11/06/20/35/91f7ns0936.jpg" width="176" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 06/11<br />à 20h38<br /><br /><strong>3</strong> Photos</p></div></a></div>		
-				
-		<div class="background_ads_listing_1" >
-		
-		<a href="javascript:void(0)" data-heart="1" data-id="285189" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-285189-Nord-Pas-de-Calais-Nord-Repliques-AEG-Recherche-culasse-ou-glock-split" class="bloc_link_listing_1" title="Bonjour à tous,
+		<a href="javascript:void(0)" data-heart="1" data-id="290705" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-290705-Ile-de-France-Seine-et-Marne-Repliques-AEG-AK-105-Specna-arms-custom" class="bloc_link_listing_1" title="Bonjour,
 
-Je suis à la recherche d'une culasse split pour glock we
+à vendre, ak 105 de chez specna arms avec :
+-un aster V3 installé
+-la boîte d'origine
+-le mid cap d'origine et 2 hi caps cyma compatible
+-l'ensemble des agrès (garde main, crosse, top ..."><p class="p_title_listing">AK 105 Specna arms custom</p><div class="bloc_address_listing"><p class="p_address_listing">Seine-et-Marne<br />77290 Mitry-Mory</p><p class="p_price_listing"><strong>190,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/12/05/02/28/98z6fdsg62.jpg" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 05/12<br />à 2h29<br /><br /><strong>3</strong> Photos</p></div></a></div>		
+				
+		<div class="background_ads_listing_1" >
+		
+		<a href="javascript:void(0)" data-heart="1" data-id="290699" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-290699-Ile-de-France-Val-de-Marne-Repliques-AEG-AK-TOKYO-MARUI-OLD-GEN-AEG" class="bloc_link_listing_1" title="Bonjour, suite à un changement de réplique, je me sépare de ma réplique de seconde main. Réplique full d'origine, fonctionnelle (qualité TM mais qui a bien vécue cependant).
+Vendue avec 3 chargeurs h..."><p class="p_title_listing">AK TOKYO MARUI OLD GEN AEG</p><div class="bloc_address_listing"><p class="p_address_listing">Val-de-Marne<br />94160 Saint-Mande</p><p class="p_price_listing"><strong>100,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/12/04/21/34/i7ps3im682.jpg" width="176" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 04/12<br />à 22h05<br /><br /><strong>2</strong> Photos</p></div></a></div>		
+				
+		<div class="background_ads_listing_1" >
+		
+		<a href="javascript:void(0)" data-heart="1" data-id="290693" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-290693-Pays-de-la-Loire-Loire-Atlantique-Repliques-AEG-LCT-ZKS-74UN-AEG" class="bloc_link_listing_1" title="LCT ZKS-74UN AEG 
 
-Je peux également être intéressé par des pièces custom pour glock tout modèle tant que ça reste un minimum compatible we ..."><p class="p_title_listing">Recherche culasse ou glock...</p><div class="bloc_address_listing"><p class="p_address_listing">Nord<br />59171 Hornaing</p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="template/images/no_photo2.png" width="176" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 24/10<br />à 3h23<br /><br /><strong>0</strong> Photo</p></div></a></div>		
-				
-		<div class="background_ads_listing_1" >
-		
-		<a href="javascript:void(0)" data-heart="1" data-id="284872" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-284872-Alsace-Haut-Rhin-Repliques-AEG-M4-custom-et-glock-17-custom" class="bloc_link_listing_1" title="Bonjour  vend m4 custom 
-Base major one garde main golden eagle 
-Interne titan détente maxx model 
-Bloc hop up prowin canon fps softair joint mapple leaf et tensionner ohm 
-Glock 17 base marui ..."><p class="p_title_listing">M4 custom et glock 17 custom</p><div class="bloc_address_listing"><p class="p_address_listing"> Haut-Rhin<br />68150 Ribeauvillé</p><p class="p_price_listing"><strong>400,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/10/21/13/22/y4pqds6364.jpeg" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 21/10<br />à 13h23<br /><br /><strong>3</strong> Photos</p></div></a></div>		
-				
-		<div class="background_ads_listing_1" >
-		
-		<a href="javascript:void(0)" data-heart="1" data-id="284828" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-284828-Nord-Pas-de-Calais-Pas-de-Calais-Repliques-AEG-Tout-et-a-vendre" class="bloc_link_listing_1" title="Bonjour suite à l’arrêt de ce sport qui me tenez à cœur mais la vie que se n’est plus possible j’ai tout sa à vous vendre je préviens je n’envoie rien tout et à venir chercher sur place 
-Pour commenc..."><p class="p_title_listing">Tout et à vendre</p><div class="bloc_address_listing"><p class="p_address_listing">Pas-de-Calais<br />62820 LIBERCOURT</p><p class="p_price_listing"><strong>500,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/10/21/04/20/98z1dgv321.jpeg" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 21/10<br />à 4h20<br /><br /><strong>3</strong> Photos</p></div></a></div>		
-				
-		<div class="background_ads_listing_1" >
-		
-		<a href="javascript:void(0)" data-heart="1" data-id="283744" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-283744-Pays-de-la-Loire-Loire-Atlantique-Repliques-AEG-CM16-G-G-Glock-17-Cybergun-et-accessoires" class="bloc_link_listing_1" title="Vend lot complet airsoft 
+Bonjour,
 
-M4 G&amp;G très peu utilisé 
-Glock 17 Cybergun très peu utilisé 
-Masque protection faciale 
-Holster 
-gilet tactique Viper 
-poignée verticale 
-silencieux 
-sangle mon..."><p class="p_title_listing">CM16 G&amp;G Glock 17...</p><div class="bloc_address_listing"><p class="p_address_listing">Loire-Atlantique<br />44000 nantes</p><p class="p_price_listing"><strong>370,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/10/12/17/08/624242o5z4.png" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 12/10<br />à 17h12<br /><br /><strong>3</strong> Photos</p></div></a></div>		
+Je vends ma réplique LCT ZKS-74UN AEG neuve jamais vue le terrain commandé le mois dernier chez Airsoft entrepôt. Complétement d'origine en interne jamais ouvert et ja..."><p class="p_title_listing">LCT ZKS-74UN AEG</p><div class="bloc_address_listing"><p class="p_address_listing">Loire-Atlantique<br />44470 carquefou</p><p class="p_price_listing"><strong>420,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/12/04/20/59/52p3s79t9z.jpg" width="176" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 04/12<br />à 21h00<br /><br /><strong>3</strong> Photos</p></div></a></div>		
 				
 		<div class="background_ads_listing_1" >
 		
-		<a href="javascript:void(0)" data-heart="1" data-id="283356" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-283356-Poitou-Charentes-Charente-Maritime-Repliques-AEG-CM16-equipe-vente-aussi-d-un-equipement-complet-" class="bloc_link_listing_1" title="Bonjour,
+		<a href="javascript:void(0)" data-heart="1" data-id="290664" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-290664-Rhone-Alpes-Rhone-Repliques-AEG-LCT-AK74MN-Pieces-d-Upgrade-Neuve-" class="bloc_link_listing_1" title="Bonjour à tous,
 
-Je mets en vente un CM16 disposant de :
-- 2 batteries
-- 3 chargeurs (1 à roulettes et 2 ressort)
-- viseur Holo (cible rouge/verte et réglage de luminosité)
-- une poignée non installée ..."><p class="p_title_listing">CM16 équipé (vente aussi d'un ...</p><div class="bloc_address_listing"><p class="p_address_listing">Charente-Maritime<br />17000 La Rochelle</p><p class="p_price_listing"><strong>280,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/10/10/13/11/130i4o9g9e.jpg" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 10/10<br />à 13h12<br /><br /><strong>3</strong> Photos</p></div></a></div>
+Je me sépare de mon AK74MN de chez LCT AEG (version non EBB, c'est un AEG classique) que j'avais acheté en kit : le corps, la Gearbox...etc
+
+C'est une réplique qui n'a JAMAIS vu l..."><p class="p_title_listing">LCT AK74MN + Pièces ...</p><div class="bloc_address_listing"><p class="p_address_listing">Rhône<br />69009 Lyon</p><p class="p_price_listing"><strong>210,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/12/04/18/47/idbmedm4i4.jpg" width="176" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 04/12<br />à 18h48<br /><br /><strong>3</strong> Photos</p></div></a></div>		
+				
+		<div class="background_ads_listing_1" >
+		
+		<a href="javascript:void(0)" data-heart="1" data-id="290662" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-290662-Pays-de-la-Loire-Loire-Atlantique-Repliques-AEG-AK-White-Storm-Marui-NEUVE" class="bloc_link_listing_1" title="Bonjour,
+je met en vente mon ak White Storm Marui toute neuve, jamais vu le terrain avec tout ces accessoires d'origines.
+Avec en supplément un RMR fonctionnel.
+Il s'agit du model EBBR dit Next ..."><p class="p_title_listing">AK White Storm Marui NEUVE</p><div class="bloc_address_listing"><p class="p_address_listing">Loire-Atlantique<br />44000 Nantes</p><p class="p_price_listing"><strong>380,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/12/04/18/44/2m244p0d46.jpg" width="176" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 04/12<br />à 18h44<br /><br /><strong>3</strong> Photos</p></div></a></div>		
+				
+		<div class="background_ads_listing_1" >
+		
+		<a href="javascript:void(0)" data-heart="1" data-id="290564" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-290564-Rhone-Alpes-Loire-Repliques-AEG-Ak-arcturus" class="bloc_link_listing_1" title="Vend ak arcturus
+
+Full upgrade
+
+Titan 
+Moteur shs 
+
+Tous ce qui ça bien 
+
+Avec 5 chargeurs 
+Viseur t1
+Lampe 
+Poignée 
+Compensateur 
+Cache rail
+2 batteries 11.1v
+
+Pas d'échange 
+..."><p class="p_title_listing">Ak arcturus</p><div class="bloc_address_listing"><p class="p_address_listing">Loire<br />42300 Roanne</p><p class="p_price_listing"><strong>500,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/12/04/10/48/9im840t2d2.jpg" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 04/12<br />à 10h48<br /><br /><strong>3</strong> Photos</p></div></a></div>		
+				
+		<div class="background_ads_listing_1" >
+		
+		<a href="javascript:void(0)" data-heart="1" data-id="290513" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-290513-Haute-Normandie-Seine-Maritime-Repliques-AEG-AK-RK74-T-G-G" class="bloc_link_listing_1" title="Bonjour 
+
+je vends mon RK 74 T : 
+
+- 4 chargeurs avec balles apparentes 
+
+- Câblage dans le top-cover
+
+Contact par sms au 07 77 70 30 65
+
+Je ne réponds pas au mail, car la plupart sont des a..."><p class="p_title_listing">AK RK74 T G&amp;G</p><div class="bloc_address_listing"><p class="p_address_listing">Seine-Maritime<br />76430 Saint vigor...</p><p class="p_price_listing"><strong>330,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/12/03/19/41/8qvtq2de61.jpg" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 03/12<br />à 19h41<br /><br /><strong>2</strong> Photos</p></div></a></div>		
+				
+		<div class="background_ads_listing_1" >
+		
+		<a href="javascript:void(0)" data-heart="1" data-id="290448" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-290448-Rhone-Alpes-Rhone-Repliques-AEG-Chargeur-ak" class="bloc_link_listing_1" title="Chargeur ak 10€ les 3 sms 0769197287"><p class="p_title_listing">Chargeur ak</p><div class="bloc_address_listing"><p class="p_address_listing">Rhône<br />69800 ST PRIEST</p><p class="p_price_listing"><strong>10,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/12/03/13/27/9rf1q0o546.jpeg" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 03/12<br />à 13h28<br /><br /><strong>1</strong> Photo</p></div></a></div>		
+				
+		<div class="background_ads_listing_1" >
+		
+		<a href="javascript:void(0)" data-heart="1" data-id="290362" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-290362-Lorraine-Meuse-Repliques-AEG-Pack-AK-47-Full-Acier-Accessoires" class="bloc_link_listing_1" title="- AK-47 (AKM) E&amp;L Full Acier &amp; Bois: 300€ le lot frais de port compris ! Etat parfait de la réplique et des accessoires ! ( totalement Neuf) Elle respire le vrai a 100km a la ronde !
+
+- x2 B..."><p class="p_title_listing">Pack AK-47 Full Acier +...</p><div class="bloc_address_listing"><p class="p_address_listing">Meuse<br />55700 stenay</p><p class="p_price_listing"><strong>300,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/12/02/19/14/22h26fnqvd.jpg" width="176" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 02/12<br />à 19h15<br /><br /><strong>3</strong> Photos</p></div></a></div>		
+				
+		<div class="background_ads_listing_1" >
+		
+		<a href="javascript:void(0)" data-heart="1" data-id="290266" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-290266-Basse-Normandie-Calvados-Repliques-AEG-ak-104-full-custom-full-zenitco" class="bloc_link_listing_1" title="bonjour je vend a regret mon AK 104 LCT :
+réplique de base (480e)
+valeur total de la réplique 1480e 
+interne :
+
+gearbox tailler dans la masse (120e)
+titan basic (90e)
+moteur brushless (..."><p class="p_title_listing">ak 104 full custom full...</p><div class="bloc_address_listing"><p class="p_address_listing">Calvados<br />14000 caen</p><p class="p_price_listing"><strong>900,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/12/01/20/57/ymt2vm294v.jpg" width="176" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 01/12<br />à 21h25<br /><br /><strong>3</strong> Photos</p></div></a></div>		
+				
+		<div class="background_ads_listing_1" >
+		
+		<a href="javascript:void(0)" data-heart="1" data-id="290273" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-290273-Pays-de-la-Loire-Loire-Atlantique-Repliques-AEG-LCT-ZKS-74UN-AEG" class="bloc_link_listing_1" title="LCT ZKS-74UN AEG
+
+Bonjour,
+
+Je vends ma réplique LCT ZKS-74UN AEG neuve jamais vue le terrain commandé le mois dernier chez Airsoft entrepôt. Complétement d'origine en interne jamais ouvert et jam..."><p class="p_title_listing">LCT ZKS-74UN AEG</p><div class="bloc_address_listing"><p class="p_address_listing">Loire-Atlantique<br />44470 carquefou</p><p class="p_price_listing"><strong>430,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/12/01/21/10/947dsm3o72.jpg" width="176" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 01/12<br />à 21h11<br /><br /><strong>3</strong> Photos</p></div></a></div>		
+				
+		<div class="background_ads_listing_1" >
+		
+		<a href="javascript:void(0)" data-heart="1" data-id="290191" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-290191-Bourgogne-Saone-et-Loire-Repliques-AEG-AKS-74MN-M4-RIS-M9-GEAR" class="bloc_link_listing_1" title="Bonjour,
+Je vends :
+
+- AKS-74MN Cybergun + Rail + 3 Chargeur Hi Cap 150€
+
+- M4 D boys + 4 Chargeur Hi cap sans Batterie 90€
+
+- M9 KJW (2 chargeur hs pour pièces) 40€
+
+- Dump poche Templars ge..."><p class="p_title_listing">AKS-74MN / M4 RIS / M9 + GEAR</p><div class="bloc_address_listing"><p class="p_address_listing">Saône-et-Loire<br />71118 71118 - ST MARTIN...</p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/12/01/01/43/6124n9q5v2.jpg" width="176" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 01/12<br />à 1h50<br /><br /><strong>3</strong> Photos</p></div></a></div>		
+				
+		<div class="background_ads_listing_1" >
+		
+		<a href="javascript:void(0)" data-heart="1" data-id="289997" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-289997-Aquitaine-Gironde-Repliques-AEG-AK-SLR105-U-Arsenal-Classic-Army" class="bloc_link_listing_1" title="Vends 
+AK SLR105 U (Arsenal) Classic Army
+
+Full metal
+Bois véritable  pour la crosse
+Moteur haute performance 
+Logo Arsenal avec numéro de série unique 
+Poids : 2,85 kg 
+Longueur du canon : 28..."><p class="p_title_listing">AK SLR105 U (Arsenal) Classic...</p><div class="bloc_address_listing"><p class="p_address_listing">Gironde<br />33290 BLANQUEFORT</p><p class="p_price_listing"><strong>330,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/11/29/10/50/3e4pqi9td6.jpg" width="176" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 29/11<br />à 10h51<br /><br /><strong>3</strong> Photos</p></div></a></div>		
+				
+		<div class="background_ads_listing_1" >
+		
+		<a href="javascript:void(0)" data-heart="1" data-id="289985" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-289985-Auvergne-Allier-Repliques-AEG-AK-47" class="bloc_link_listing_1" title="Bonjour,
+Je met en vente mon airsoft car je ne l'es jamais utilisé car mon centre a fermé , ducoup elle reste dans ma chambre pour rien .
+Je possède encore la boîte avec tous dedans et un sac de bil..."><p class="p_title_listing">AK-47</p><div class="bloc_address_listing"><p class="p_address_listing">Allier<br />03390 Beaune d&#039;allier</p><p class="p_price_listing"><strong>230,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="template/images/no_photo2.png" width="176" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 29/11<br />à 8h54<br /><br /><strong>0</strong> Photo</p></div></a></div>		
+				
+		<div class="background_ads_listing_1" >
+		
+		<a href="javascript:void(0)" data-heart="1" data-id="289984" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-289984-Auvergne-Allier-Repliques-AEG-AK-47" class="bloc_link_listing_1" title="Bonjour,
+Je met en vente mon airsoft car je ne l'es jamais utilisé car mon centre a fermé , ducoup elle reste dans ma chambre pour rien .
+Je possède encore la boîte avec tous dedans et un sac de bil..."><p class="p_title_listing">AK-47</p><div class="bloc_address_listing"><p class="p_address_listing">Allier<br />03390 Beaune d&#039;allier</p><p class="p_price_listing"><strong>230,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/11/29/08/54/2pdv0i39i9.jpg" width="176" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 29/11<br />à 8h54<br /><br /><strong>2</strong> Photos</p></div></a></div>		
+				
+		<div class="background_ads_listing_1" >
+		
+		<a href="javascript:void(0)" data-heart="1" data-id="289978" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-289978-Bourgogne-Saone-et-Loire-Repliques-AEG-AKS-74MN-M4-RIS-M9-GEAR" class="bloc_link_listing_1" title="Bonjour,
+Je vends :
+
+- AKS-74MN Cybergun + Rail + 3 Chargeur Hi Cap 150€
+
+- M4 D boys + 4 Chargeur Hi cap sans Batterie 90€
+
+- M9 KJW (2 chargeur hs pour pièces) 40€
+
+- Dump poche Templars ge..."><p class="p_title_listing">AKS-74MN / M4 RIS / M9 + GEAR</p><div class="bloc_address_listing"><p class="p_address_listing">Saône-et-Loire<br />71118 71118 - ST MARTIN...</p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/11/29/02/36/9976710i74.jpg" width="176" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 29/11<br />à 2h37<br /><br /><strong>3</strong> Photos</p></div></a></div>		
+				
+		<div class="background_ads_listing_1" >
+		
+		<a href="javascript:void(0)" data-heart="1" data-id="289966" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-289966-Midi-Pyrenees-Tarn-Repliques-AEG-Lot-repliques-airsoft" class="bloc_link_listing_1" title="Bonjour je mets en vente c'est trois répliques 
+
+Nous avons donc une cm16 g&amp;g d'origine vendue avec ou sans ses accessoires ses 3 chargeurs et sa batterie 
+
+Une ak 74u e&amp;l ..."><p class="p_title_listing">Lot répliques airsoft</p><div class="bloc_address_listing"><p class="p_address_listing">Tarn<br />81000 Albi</p><p class="p_price_listing"><strong>100,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/11/28/23/04/9jmr1s8z71.jpg" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 28/11<br />à 23h06<br /><br /><strong>2</strong> Photos</p></div></a></div>		
+				
+		<div class="background_ads_listing_1" >
+		
+		<a href="javascript:void(0)" data-heart="1" data-id="289964" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-289964-Rhone-Alpes-Drome-Repliques-AEG-AK74-N-TAC-MOD-A-E-L-accessoires" class="bloc_link_listing_1" title="Bonjour,
+
+Je me sépare a contre coeur de mon AK E&amp;L.
+
+En acier et bois avec plusieurs rail picatini d'origine.
+Vendu avec son chargeur highcap d'origine + 4 chargeurs lowcap. (Possibilité de ..."><p class="p_title_listing">AK74-N TAC MOD A   E&amp;L +...</p><div class="bloc_address_listing"><p class="p_address_listing">Drôme<br />26500 Bourg les Valence</p><p class="p_price_listing"><strong>470,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/11/28/23/05/2y93fv7681.jpg" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 28/11<br />à 23h06<br /><br /><strong>3</strong> Photos</p></div></a></div>		
+				
+		<div class="background_ads_listing_1" >
+		
+		<a href="javascript:void(0)" data-heart="1" data-id="289817" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-289817-Rhone-Alpes-Isere-Repliques-AEG-Ak-GP30" class="bloc_link_listing_1" title="Bonjour
+
+Afin de financer un projet je souhaiterais vendre mon Ak full up-grade, Gearbox entièrement refaite, engrenage renforcé (big dragon),Mosfet Titan Advance, piston alu, tête de piston alu, mo..."><p class="p_title_listing">Ak + GP30</p><div class="bloc_address_listing"><p class="p_address_listing">Isère<br />38200 Vienne</p><p class="p_price_listing"><strong>450,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/11/27/17/50/a95m2fds4v.jpg" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 27/11<br />à 17h53<br /><br /><strong>1</strong> Photo</p></div></a></div>		
+				
+		<div class="background_ads_listing_1" >
+		
+		<a href="javascript:void(0)" data-heart="1" data-id="289766" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-289766-Alsace-Bas-Rhin-Repliques-AEG-Lonex-ak-sangle" class="bloc_link_listing_1" title="A vendre lot de chargeurs hicap lonex, sangle offert pour l'achat des chargeurs 
+
+Par SMS uniquement merci"><p class="p_title_listing">Lonex ak + sangle</p><div class="bloc_address_listing"><p class="p_address_listing">Bas-Rhin<br />67100 Strasbourg</p><p class="p_price_listing"><strong>10,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/11/27/11/36/3smzddd7v1.jpeg" width="176" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 27/11<br />à 11h36<br /><br /><strong>1</strong> Photo</p></div></a></div>		
+				
+		<div class="background_ads_listing_1" >
+		
+		<a href="javascript:void(0)" data-heart="1" data-id="289560" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-289560-Haute-Normandie-Seine-Maritime-Repliques-AEG-SR47-CQBR" class="bloc_link_listing_1" title="Bonjour,
+Vends SR47 CQBR, il s’agit du modèle custom proposé à la vente par evike USA (base m4 avec les chargeurs d’AK
+Il était utilisé en hpa (polar) mais je passe sur un mk18 ; j’ai donc mis l’int..."><p class="p_title_listing">SR47 CQBR</p><div class="bloc_address_listing"><p class="p_address_listing">Seine-Maritime<br />76380 Canteleu</p><p class="p_price_listing"><strong>300,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/11/25/20/14/2h93s69q56.jpeg" width="176" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 25/11<br />à 20h14<br /><br /><strong>2</strong> Photos</p></div></a></div>		
+				
+		<div class="background_ads_listing_1" >
+		
+		<a href="javascript:void(0)" data-heart="1" data-id="289482" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-289482-Poitou-Charentes-Charente-Maritime-Repliques-AEG-echange-Kriss-Vector-Krytac-custom-P6" class="bloc_link_listing_1" title="échange Kriss Vector Krytac custom fais par P6 bi-ton 
+spécifités :
+-Canon externe court
+-Moteur Slong High torque
+-piston renforcée Slong
+-montée en DSG
+-mosfet de base
+-canon de précision 6.0..."><p class="p_title_listing">échange Kriss Vector Krytac ...</p><div class="bloc_address_listing"><p class="p_address_listing">Charente-Maritime<br />17000 La Rochelle</p><p class="p_price_listing"><strong>700,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/11/25/00/58/yat2r46fdz.jpg" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 25/11<br />à 0h59<br /><br /><strong>3</strong> Photos</p></div></a></div>		
+				
+		<div class="background_ads_listing_1" >
+		
+		<a href="javascript:void(0)" data-heart="1" data-id="289348" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-289348-Pays-de-la-Loire-Mayenne-Repliques-AEG-Ak-74" class="bloc_link_listing_1" title="Ak 74 de la marque APS (ASK204P)
+
+Réplique en très bon état, vendu avec tous ses accessoires
+-2 chargeur Mid-cap E&amp;L 
+-Rail supérieur picatinny 
+-Batterie stick 1600mah 
+Réplique qui disp..."><p class="p_title_listing">Ak 74</p><div class="bloc_address_listing"><p class="p_address_listing">Mayenne<br />53210 Argentré</p><p class="p_price_listing"><strong>130,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/11/23/18/28/2mht0it9v6.jpeg" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 23/11<br />à 18h28<br /><br /><strong>1</strong> Photo</p></div></a></div>		
+				
+		<div class="background_ads_listing_1" >
+		
+		<a href="javascript:void(0)" data-heart="1" data-id="289238" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-289238-Nord-Pas-de-Calais-Nord-Repliques-AEG-Aks74u-E-L" class="bloc_link_listing_1" title="Bonjour je vend mon aks74u E&amp;L custom externe zenitco et interne renforcé avec titan advanced.
+
+Avec ça il y a:
+
+Mosfest titan advanced avec possibilité des programmer comme vous le voulez le..."><p class="p_title_listing">Aks74u E&amp;L</p><div class="bloc_address_listing"><p class="p_address_listing">Nord<br />59253 La gorgue</p><p class="p_price_listing"><strong>550,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/11/22/23/38/sn1qv2d9v3.jpg" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 22/11<br />à 23h39<br /><br /><strong>3</strong> Photos</p></div></a></div>		
+				
+		<div class="background_ads_listing_1" >
+		
+		<a href="javascript:void(0)" data-heart="1" data-id="289209" data-action="1" data-ajax="selection.php" data-nbselected="0" class="icon_listing_sel"></a><a href="Ads-289209-Ile-de-France-Yvelines-Repliques-AEG-Arret-de-l-airsoft-gros-lot" class="bloc_link_listing_1" title="Bonjours suite à l'arrêt de l'airsort je souhaite vendre mon matériel complet en lot 
+
+Dans le lot il y a :                                prix d'achat: 
+
+Lancer tactical gen 2                    ..."><p class="p_title_listing">Arrêt de l'airsoft gros lot</p><div class="bloc_address_listing"><p class="p_address_listing">Yvelines<br />78520 Limay</p><p class="p_price_listing"><strong>400,00 €</strong></p></div><div class="bloc_categorie_listing"><p class="p_categorie_listing"> Offre / Répliques AEG</p></div><div class="bloc_photo_listing"><img src="upload/thumbnails/2022/11/22/22/07/9pdi7m39z6.jpg" width="176" height="123" alt="" /></div><div class="bloc_date_listing"><p class="p_date_listing">Déposée le 22/11<br />à 22h07<br /><br /><strong>2</strong> Photos</p></div></a></div>
 
 <div class="bloc_pagination bloc_pagination_bottom">
 
-     <a href="ads_search.php?l=1&amp;page=1" class="link_pagination_sel">1</a>
+     <a href="ads_search.php?l=1&amp;page=1" class="link_pagination_sel">1</a><a href="ads_search.php?l=1&amp;page=2" class="link_pagination">2</a><a href="ads_search.php?l=1&amp;page=3" class="link_pagination">3</a><a href="ads_search.php?l=1&amp;page=2" class="link_pagination">page suivante ></a><a href="ads_search.php?l=1&amp;page=3" class="link_pagination">dernière page</a>
 </div>
 	
 
