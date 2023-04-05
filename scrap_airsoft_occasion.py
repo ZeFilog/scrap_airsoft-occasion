@@ -82,7 +82,7 @@ def scrap():
             # Iterate through the images in the 'image' variable
             for j in image:
                 # if the iteration reaches 5, break the loop
-                if i == 5:
+                if i == 5: # only 5 images can be posted on a same poste
                     break
                 else:
                     # Else, append the current image to the liste_image
